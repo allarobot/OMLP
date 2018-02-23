@@ -1,0 +1,2395 @@
+TestExecutive(R) Version 5.0.17
+SMU诊断通过  SMU Diagnostics Passed (Version 5)
+ 
+17 JUL 17  10:49:46
+C:\USERS\C919\DESKTOP\10102_WIT_P\GND1.RO
+ 
+
+INP "Serial number" Y ser
+SERIAL NUMBER
+SERIAL NUMBER\10102_WIT_GND
+SEL E:\TESTFILE\report\10102_WIT_GND.TXT
+ACT E:\919UT.UT
+  
+C .1A <8R 0.1T 0.2S
+  
+STP
+停止
+测试引擎输入中断模式，按下前进继续
+ENB DIG PAT DTB
+  
+*段线测试*
+INP "请输入环境湿度湿度" Y ser
+请输入环境湿度湿度
+请输入环境湿度湿度\摄氏度：26.8 ；湿度：58% 
+INP "开始" Y ser
+开始
+开始\
+C SMU       0.100A               8.000    00.200S    00.100T
+:      	CC 	50023 	     	      	         	   	1M-211-P1-D
+:      	   	      	00945	PASS 	 1.641    	OHM	GND
+:      	CC 	50043 	     	      	         	   	1M-211-P2-14
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	50343 	     	      	         	   	2M-211-P1-D
+:      	   	      	00945	PASS 	 1.709    	OHM	GND
+:      	CC 	50413 	     	      	         	   	2M-211-P2-14
+:      	   	      	00945	PASS 	 1.663    	OHM	GND
+:      	CC 	71023 	     	      	         	   	1M-215-P1-D
+:      	   	      	00945	PASS 	 1.654    	OHM	GND
+:      	CC 	71006 	     	      	         	   	1M-215-P2-7
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	71004 	     	      	         	   	1M-215-P2-5
+:      	   	      	00945	PASS 	 1.699    	OHM	GND
+:      	CC 	71005 	     	      	         	   	1M-215-P2-6
+:      	   	      	00945	PASS 	 1.674    	OHM	GND
+:      	CC 	50133 	     	      	         	   	1M-216-P1-D
+:      	   	      	00945	PASS 	 1.692    	OHM	GND
+:      	CC 	10823 	     	      	         	   	1M-21H-P1-D
+:      	   	      	00945	PASS 	 1.738    	OHM	GND
+:      	CC 	71103 	     	      	         	   	2M-215-P1-D
+:      	   	      	00945	PASS 	 1.684    	OHM	GND
+:      	CC 	50213 	     	      	         	   	2M-216-P1-D
+:      	   	      	00945	PASS 	 1.604    	OHM	GND
+:      	CC 	50141 	     	      	         	   	2M-216-P2-2
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	12043 	     	      	         	   	2M-21H-P1-D
+:      	   	      	00945	PASS 	 1.691    	OHM	GND
+:      	CC 	12021 	     	      	         	   	2M-21H-P2-2
+:      	   	      	00945	PASS 	 2.258    	OHM	GND
+:      	CC 	13245 	     	      	         	   	M-217-P1-6
+:      	   	      	00945	PASS 	 1.679    	OHM	GND
+:      	CC 	40321 	     	      	         	   	1D-215-R1-2
+:      	   	      	00945	PASS 	 1.728    	OHM	GND
+:      	CC 	40328 	     	      	         	   	1D-215-R1-9
+:      	   	      	00945	PASS 	 1.650    	OHM	GND
+:      	CC 	50013 	     	      	         	   	1D-21P-P1-4
+:      	   	      	00945	PASS 	 1.607    	OHM	GND
+:      	CC 	71001 	     	      	         	   	1M-215-P2-2
+:      	   	      	00945	PASS 	 1.688    	OHM	GND
+:      	CC 	50116 	     	      	         	   	1M-216-P2-7
+:      	   	      	00945	PASS 	 1.664    	OHM	GND
+:      	CC 	50111 	     	      	         	   	1M-216-P2-2
+:      	   	      	00945	PASS 	 1.605    	OHM	GND
+:      	CC 	50114 	     	      	         	   	1M-216-P2-5
+:      	   	      	00945	PASS 	 1.669    	OHM	GND
+:      	CC 	50117 	     	      	         	   	1M-216-P2-8
+:      	   	      	00945	PASS 	 1.647    	OHM	GND
+:      	CC 	10806 	     	      	         	   	1M-21H-P2-7
+:      	   	      	00945	PASS 	 1.769    	OHM	GND
+:      	CC 	10801 	     	      	         	   	1M-21H-P2-2
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	10804 	     	      	         	   	1M-21H-P2-5
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	71335 	     	      	         	   	1M-21S-P1-F
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	71332 	     	      	         	   	1M-21S-P1-C
+:      	   	      	00945	PASS 	 1.691    	OHM	GND
+:      	CC 	40841 	     	      	         	   	2D-215-R1-2
+:      	   	      	00945	PASS 	 1.772    	OHM	GND
+:      	CC 	40848 	     	      	         	   	2D-215-R1-9
+:      	   	      	00945	PASS 	 1.671    	OHM	GND
+:      	CC 	12013 	     	      	         	   	2D-21P-P1-4
+:      	   	      	00945	PASS 	 1.614    	OHM	GND
+:      	CC 	71036 	     	      	         	   	2M-215-P2-7
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	71031 	     	      	         	   	2M-215-P2-2
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	71037 	     	      	         	   	2M-215-P2-8
+:      	   	      	00945	PASS 	 1.656    	OHM	GND
+:      	CC 	50145 	     	      	         	   	2M-216-P2-6
+:      	   	      	00945	PASS 	 1.728    	OHM	GND
+:      	CC 	50147 	     	      	         	   	2M-216-P2-8
+:      	   	      	00945	PASS 	 1.731    	OHM	GND
+:      	CC 	50146 	     	      	         	   	2M-216-P2-7
+:      	   	      	00945	PASS 	 1.674    	OHM	GND
+:      	CC 	12026 	     	      	         	   	2M-21H-P2-7
+:      	   	      	00945	PASS 	 1.659    	OHM	GND
+:      	CC 	12025 	     	      	         	   	2M-21H-P2-6
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	71345 	     	      	         	   	2M-21S-P1-F
+:      	   	      	00945	PASS 	 1.666    	OHM	GND
+:      	CC 	71342 	     	      	         	   	2M-21S-P1-C
+:      	   	      	00945	PASS 	 1.681    	OHM	GND
+:      	CC 	63413 	     	      	         	   	D-21Q-P1-4
+:      	   	      	00945	PASS 	 2.065    	OHM	GND
+:      	CC 	61031 	     	      	         	   	D-21R-R1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	61038 	     	      	         	   	D-21R-R1-9
+:      	   	      	00945	HIGH 	 8.898M   	OHM	GND
+:      	CC 	63425 	     	      	         	   	M-211-P1-6
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	72405 	     	      	         	   	M-212-P1-6
+:      	   	      	00945	PASS 	 1.703    	OHM	GND
+:      	CC 	50315 	     	      	         	   	M-21B-P1-6
+:      	   	      	00945	PASS 	 1.619    	OHM	GND
+:      	CC 	50505 	     	      	         	   	M-21C-P1-6
+:      	   	      	00945	PASS 	 1.697    	OHM	GND
+:      	CC 	72022 	     	      	         	   	2M-21R-P2-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	11925 	     	      	         	   	1M-21R-P1-F
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	11903 	     	      	         	   	1M-21R-P2-D
+:      	   	      	00945	PASS 	 1.754    	OHM	GND
+:      	CC 	12003 	     	      	         	   	1M-21R-P3-4
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	72101 	     	      	         	   	2M-21R-P1-12
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	72123 	     	      	         	   	2M-21R-P3-4
+:      	   	      	00945	HIGH 	 6.927M   	OHM	GND
+:      	CC 	32717 	     	      	         	   	P-3311-P1-28
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	71230 	     	      	         	   	H-211-P1-A
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	71236 	     	      	         	   	H-211-P1-G
+:      	   	      	00945	PASS 	 1.638    	OHM	GND
+:      	CC 	41530 	     	      	         	   	H-213-P1-A
+:      	   	      	00945	PASS 	 1.773    	OHM	GND
+:      	CC 	41536 	     	      	         	   	H-213-P1-G
+:      	   	      	00945	PASS 	 1.665    	OHM	GND
+:      	CC 	30600 	     	      	         	   	H-215-P1-A
+:      	   	      	00945	PASS 	 1.741    	OHM	GND
+:      	CC 	30540 	     	      	         	   	H-214-P1-A
+:      	   	      	00945	PASS 	 1.769    	OHM	GND
+:      	CC 	30542 	     	      	         	   	H-214-P1-C
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	30602 	     	      	         	   	H-215-P1-C
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	52222 	     	      	         	   	1M-21Q-P1-13
+:      	   	      	00945	PASS 	 1.943    	OHM	GND
+:      	CC 	60212 	     	      	         	   	2M-21Q-P1-13
+:      	   	      	00945	PASS 	 1.943    	OHM	GND
+:      	CC 	52124 	     	      	         	   	1M-21N-P1-E
+:      	   	      	00945	PASS 	 1.893    	OHM	GND
+:      	CC 	52221 	     	      	         	   	1M-21Q-P1-12
+:      	   	      	00945	PASS 	 1.705    	OHM	GND
+:      	CC 	60114 	     	      	         	   	2M-21N-P1-E
+:      	   	      	00945	PASS 	 1.806    	OHM	GND
+:      	CC 	60211 	     	      	         	   	2M-21Q-P1-12
+:      	   	      	00945	PASS 	 1.658    	OHM	GND
+:      	CC 	52021 	     	      	         	   	1D-21L-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	52112 	     	      	         	   	1M-21J-P1-C
+:      	   	      	00945	PASS 	 1.673    	OHM	GND
+:      	CC 	60021 	     	      	         	   	2D-21L-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	60102 	     	      	         	   	2M-21J-P1-C
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	28311 	     	      	         	   	D-217-R1-2
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	44501 	     	      	         	   	1D-21N-P1-B
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	43431 	     	      	         	   	2D-21N-P1-B
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	45021 	     	      	         	   	D-212-R1-2
+:      	   	      	00945	PASS 	 1.835    	OHM	GND
+:      	CC 	43121 	     	      	         	   	D-219-R1-2
+:      	   	      	00945	PASS 	 1.764    	OHM	GND
+:      	CC 	60227 	     	      	         	   	M-21A-P1-H
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	60223 	     	      	         	   	M-21A-P1-D
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	33635 	     	      	         	   	P-3315-P1-6
+:      	   	      	00945	PASS 	 1.781    	OHM	GND
+:      	CC 	52146 	     	      	         	   	1M-21P-P1-7
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	60131 	     	      	         	   	2M-21P-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	60136 	     	      	         	   	2M-21P-P1-7
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	50442 	     	      	         	   	M-213-P1-13
+:      	   	      	00945	PASS 	 1.710    	OHM	GND
+:      	CC 	50302 	     	      	         	   	M-218-P1-13
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	50522 	     	      	         	   	M-21D-P1-13
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	52141 	     	      	         	   	1M-21P-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	45028 	     	      	         	   	D-212-R1-9
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	28318 	     	      	         	   	D-217-R1-9
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	43128 	     	      	         	   	D-219-R1-9
+:      	   	      	00945	PASS 	 1.678    	OHM	GND
+:      	CC 	20415 	     	      	         	   	1U-211-P1-F-3
+:      	   	      	00945	PASS 	 1.637    	OHM	GND
+:      	CC 	20417 	     	      	         	   	1U-211-P1-F-8
+:      	   	      	00945	PASS 	 1.633    	OHM	GND
+:      	CC 	20236 	     	      	         	   	1U-211-P1-C-7
+:      	   	      	00945	PASS 	 1.673    	OHM	GND
+:      	CC 	06221 	     	      	         	   	2U-211-P1-B-G13
+:      	   	      	00945	PASS 	 2.212    	OHM	GND
+:      	CC 	06226 	     	      	         	   	2U-211-P1-C-7
+:      	   	      	00945	PASS 	 2.283    	OHM	GND
+:      	CC 	06405 	     	      	         	   	2U-211-P1-F-3
+:      	   	      	00945	PASS 	 1.704    	OHM	GND
+:      	CC 	06407 	     	      	         	   	2U-211-P1-F-8
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	21638 	     	      	         	   	1U-232-R1-59
+:      	   	      	00945	PASS 	 2.031    	OHM	GND
+:      	CC 	21639 	     	      	         	   	1U-232-R1-60
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	21644 	     	      	         	   	1U-232-R1-65
+:      	   	      	00945	PASS 	 1.780    	OHM	GND
+:      	CC 	05528 	     	      	         	   	2U-232-R1-59
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	05529 	     	      	         	   	2U-232-R1-60
+:      	   	      	00945	PASS 	 1.793    	OHM	GND
+:      	CC 	05534 	     	      	         	   	2U-232-R1-65
+:      	   	      	00945	PASS 	 1.719    	OHM	GND
+:      	CC 	23708 	     	      	         	   	3U-232-R1-59
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	23709 	     	      	         	   	3U-232-R1-60
+:      	   	      	00945	PASS 	 1.668    	OHM	GND
+:      	CC 	23714 	     	      	         	   	3U-232-R1-65
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	76243 	     	      	         	   	1A-232-P1-D
+:      	   	      	00945	PASS 	 1.737    	OHM	GND
+:      	CC 	19939 	     	      	         	   	1U-233-P1-C-10
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	19941 	     	      	         	   	1U-233-P1-C-7
+:      	   	      	00945	PASS 	 2.018    	OHM	GND
+:      	CC 	19744 	     	      	         	   	1U-233-P1-A-A5
+:      	   	      	00945	PASS 	 2.018    	OHM	GND
+:      	CC 	19905 	     	      	         	   	1U-233-P1-A-F3
+:      	   	      	00945	PASS 	 1.792    	OHM	GND
+:      	CC 	19932 	     	      	         	   	1U-233-P1-B-H4
+:      	   	      	00945	PASS 	 5.525    	OHM	GND
+:      	CC 	19907 	     	      	         	   	1U-233-P1-A-G3
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	19942 	     	      	         	   	1U-233-P1-C-8
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	19809 	     	      	         	   	1U-233-P1-A-B5
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	19909 	     	      	         	   	1U-233-P1-A-K10
+:      	   	      	00945	PASS 	 1.783    	OHM	GND
+:      	CC 	19742 	     	      	         	   	1U-233-P1-A-A3
+:      	   	      	00945	PASS 	 1.818    	OHM	GND
+:      	CC 	19936 	     	      	         	   	1U-233-P1-B-J5
+:      	   	      	00945	PASS 	 2.748    	OHM	GND
+:      	CC 	19937 	     	      	         	   	1U-233-P1-B-K2
+:      	   	      	00945	PASS 	 2.683    	OHM	GND
+:      	CC 	19935 	     	      	         	   	1U-233-P1-B-J4
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	49920 	     	      	         	   	U-238-P1-11
+:      	   	      	00945	PASS 	 1.781    	OHM	GND
+:      	CC 	34229 	     	      	         	   	P-3317-P1-70
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	34022 	     	      	         	   	P-3318-P1-23
+:      	   	      	00945	PASS 	 1.765    	OHM	GND
+:      	CC 	03802 	     	      	         	   	1J-231-P1-3
+:      	   	      	00945	PASS 	 1.771    	OHM	GND
+:      	CC 	13112 	     	      	         	   	2J-231-P1-3
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	10142 	     	      	         	   	3J-231-P1-3
+:      	   	      	00945	PASS 	 1.738    	OHM	GND
+:      	CC 	53242 	     	      	         	   	4J-231-P1-3
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	12102 	     	      	         	   	5J-231-P1-3
+:      	   	      	00945	PASS 	 1.666    	OHM	GND
+:      	CC 	76222 	     	      	         	   	6J-231-P1-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	69622 	     	      	         	   	7J-231-P1-3
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	34447 	     	      	         	   	1P-232-P1-8
+:      	   	      	00945	PASS 	 1.684    	OHM	GND
+:      	CC 	35437 	     	      	         	   	2P-232-P1-8
+:      	   	      	00945	PASS 	 1.728    	OHM	GND
+:      	CC 	36007 	     	      	         	   	3P-232-P1-8
+:      	   	      	00945	PASS 	 1.670    	OHM	GND
+:      	CC 	35433 	     	      	         	   	2P-232-P1-4
+:      	   	      	00945	PASS 	 1.792    	OHM	GND
+:      	CC 	35432 	     	      	         	   	2P-232-P1-3
+:      	   	      	00945	PASS 	 1.796    	OHM	GND
+:      	CC 	34443 	     	      	         	   	1P-232-P1-4
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	34442 	     	      	         	   	1P-232-P1-3
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	36003 	     	      	         	   	3P-232-P1-4
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	36002 	     	      	         	   	3P-232-P1-3
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	02336 	     	      	         	   	1U-231-R1-P2-87
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	02136 	     	      	         	   	1U-231-R1-P1-87
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	18846 	     	      	         	   	2U-231-R1-P2-87
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	18646 	     	      	         	   	2U-231-R1-P1-87
+:      	   	      	00945	PASS 	 1.896    	OHM	GND
+:      	CC 	28041 	     	      	         	   	1J-233-P1-12
+:      	   	      	00945	PASS 	 1.712    	OHM	GND
+:      	CC 	28141 	     	      	         	   	2J-233-P1-12
+:      	   	      	00945	PASS 	 1.796    	OHM	GND
+:      	CC 	28241 	     	      	         	   	3J-233-P1-12
+:      	   	      	00945	PASS 	 1.802    	OHM	GND
+:      	CC 	18844 	     	      	         	   	2U-231-R1-P2-85
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	02334 	     	      	         	   	1U-231-R1-P2-85
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	28100 	     	      	         	   	1J-233-P1-21
+:      	   	      	00945	PASS 	 1.692    	OHM	GND
+:      	CC 	28200 	     	      	         	   	2J-233-P1-21
+:      	   	      	00945	PASS 	 1.814    	OHM	GND
+:      	CC 	28300 	     	      	         	   	3J-233-P1-21
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	38003 	     	      	         	   	1D-232-P1-4
+:      	   	      	00945	PASS 	 1.670    	OHM	GND
+:      	CC 	38006 	     	      	         	   	1D-232-P1-7
+:      	   	      	00945	PASS 	 1.694    	OHM	GND
+:      	CC 	38023 	     	      	         	   	2D-232-P1-4
+:      	   	      	00945	PASS 	 1.692    	OHM	GND
+:      	CC 	38026 	     	      	         	   	2D-232-P1-7
+:      	   	      	00945	PASS 	 1.661    	OHM	GND
+:      	CC 	41403 	     	      	         	   	3D-232-P1-4
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	41406 	     	      	         	   	3D-232-P1-7
+:      	   	      	00945	PASS 	 1.676    	OHM	GND
+:      	CC 	21311 	     	      	         	   	U-23C-P1-A-B11
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	38023 	     	      	         	   	2D-232-P1-4
+:      	   	      	00945	PASS 	 1.637    	OHM	GND
+:      	CC 	41403 	     	      	         	   	3D-232-P1-4
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	21314 	     	      	         	   	U-23C-P1-A-C3
+:      	   	      	00945	PASS 	 1.705    	OHM	GND
+:      	CC 	21313 	     	      	         	   	U-23C-P1-A-C2
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	21312 	     	      	         	   	U-23C-P1-A-C1
+:      	   	      	00945	PASS 	 1.719    	OHM	GND
+:      	CC 	21322 	     	      	         	   	U-23C-P1-A-C11
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	21333 	     	      	         	   	U-23C-P1-A-D11
+:      	   	      	00945	PASS 	 1.719    	OHM	GND
+:      	CC 	21323 	     	      	         	   	U-23C-P1-A-D1
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	21324 	     	      	         	   	U-23C-P1-A-D2
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	21325 	     	      	         	   	U-23C-P1-A-D3
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	35047 	     	      	         	   	1U-23D-P1-8
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	35235 	     	      	         	   	1U-23D-P1-96
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	36425 	     	      	         	   	3U-23D-P1-96
+:      	   	      	00945	PASS 	 1.724    	OHM	GND
+:      	CC 	36237 	     	      	         	   	3U-23D-P1-8
+:      	   	      	00945	PASS 	 1.673    	OHM	GND
+:      	CC 	36230 	     	      	         	   	3U-23D-P1-1
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	35905 	     	      	         	   	2U-23D-P1-96
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	35717 	     	      	         	   	2U-23D-P1-8
+:      	   	      	00945	PASS 	 1.701    	OHM	GND
+:      	CC 	35710 	     	      	         	   	2U-23D-P1-1
+:      	   	      	00945	PASS 	 1.785    	OHM	GND
+:      	CC 	35040 	     	      	         	   	1U-23D-P1-1
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	35239 	     	      	         	   	1U-23D-P1-100
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	36429 	     	      	         	   	3U-23D-P1-100
+:      	   	      	00945	PASS 	 1.670    	OHM	GND
+:      	CC 	35909 	     	      	         	   	2U-23D-P1-100
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	62704 	     	      	         	   	J-241-P14-B-1
+:      	   	      	00945	PASS 	 1.775    	OHM	GND
+:      	CC 	62602 	     	      	         	   	J-241-P19-B-3
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	62827 	     	      	         	   	J-241-P20-B-5
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	62731 	     	      	         	   	J-241-P6-A-2
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	60927 	     	      	         	   	J-241-P8-B-28
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	61743 	     	      	         	   	J-241-P9-A-4
+:      	   	      	00945	PASS 	 2.164    	OHM	GND
+:      	CC 	66200 	     	      	         	   	J-242-P14-A-1
+:      	   	      	00945	PASS 	 1.706    	OHM	GND
+:      	CC 	65343 	     	      	         	   	J-242-P15-A-4
+:      	   	      	00945	PASS 	 1.730    	OHM	GND
+:      	CC 	65143 	     	      	         	   	J-242-P16-B-14
+:      	   	      	00945	PASS 	 1.741    	OHM	GND
+:      	CC 	64917 	     	      	         	   	J-242-P17-B-26
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	64802 	     	      	         	   	J-242-P22-B-23
+:      	   	      	00945	PASS 	 1.782    	OHM	GND
+:      	CC 	65013 	     	      	         	   	J-242-P8-A-14
+:      	   	      	00945	PASS 	 1.789    	OHM	GND
+:      	CC 	65030 	     	      	         	   	J-242-P8-B-14
+:      	   	      	00945	PASS 	 1.835    	OHM	GND
+:      	CC 	13525 	     	      	         	   	J-243-P1-A-15
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	11100 	     	      	         	   	J-243-P4-B-8
+:      	   	      	00945	PASS 	 1.794    	OHM	GND
+:      	CC 	13442 	     	      	         	   	J-243-P5-B-23
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	12720 	     	      	         	   	J-243-P6-B-1
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	28619 	     	      	         	   	P-241-P2-B-9
+:      	   	      	00945	PASS 	 1.635    	OHM	GND
+:      	CC 	29308 	     	      	         	   	P-242-P3-C-10
+:      	   	      	00945	PASS 	 1.664    	OHM	GND
+:      	CC 	53722 	     	      	         	   	1U-24Q-R1-B-E1
+:      	   	      	00945	PASS 	 1.784    	OHM	GND
+:      	CC 	58920 	     	      	         	   	U-241-R1-B-11
+:      	   	      	00945	PASS 	 1.776    	OHM	GND
+:      	CC 	54622 	     	      	         	   	2U-24Q-R1-B-E1
+:      	   	      	00945	PASS 	 1.775    	OHM	GND
+:      	CC 	59230 	     	      	         	   	U-242-R1-B-11
+:      	   	      	00945	PASS 	 1.785    	OHM	GND
+:      	CC 	64706 	     	      	         	   	J-242-P22-A-7
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	71640 	     	      	         	   	U-243-P1-B-5
+:      	   	      	00945	PASS 	 1.686    	OHM	GND
+:      	CC 	71844 	     	      	         	   	U-243-P1-D-38
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	33522 	     	      	         	   	P-3314-P1-73
+:      	   	      	00945	PASS 	 1.892    	OHM	GND
+:      	CC 	33525 	     	      	         	   	P-3314-P1-76
+:      	   	      	00945	PASS 	 1.872    	OHM	GND
+:      	CC 	33528 	     	      	         	   	P-3314-P1-79
+:      	   	      	00945	PASS 	 1.831    	OHM	GND
+:      	CC 	33531 	     	      	         	   	P-3314-P1-82
+:      	   	      	00945	PASS 	 1.917    	OHM	GND
+:      	CC 	33534 	     	      	         	   	P-3314-P1-85
+:      	   	      	00945	PASS 	 1.801    	OHM	GND
+:      	CC 	33312 	     	      	         	   	P-3312-P1-43
+:      	   	      	00945	PASS 	 1.826    	OHM	GND
+:      	CC 	09901 	     	      	         	   	U-24Q-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	09911 	     	      	         	   	U-24Q-P2-B
+:      	   	      	00945	HIGH 	 15.84M   	OHM	GND
+:      	CC 	09831 	     	      	         	   	U-24Q-P4-B
+:      	   	      	00945	PASS 	 1.833    	OHM	GND
+:      	CC 	03822 	     	      	         	   	U-24R-P1-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03825 	     	      	         	   	U-24R-P1-6
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	09821 	     	      	         	   	G-244-P2-B
+:      	   	      	00945	PASS 	 1.923    	OHM	GND
+:      	CC 	04539 	     	      	         	   	U-244-P1-K
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	03231 	     	      	         	   	U-244-P2-B
+:      	   	      	00945	PASS 	 1.752    	OHM	GND
+:      	CC 	03232 	     	      	         	   	U-244-P2-C
+:      	   	      	00945	PASS 	 1.803    	OHM	GND
+:      	CC 	03234 	     	      	         	   	U-244-P2-E
+:      	   	      	00945	PASS 	 1.905    	OHM	GND
+:      	CC 	03236 	     	      	         	   	U-244-P2-G
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	03301 	     	      	         	   	U-244-P2-Y
+:      	   	      	00945	PASS 	 1.820    	OHM	GND
+:      	CC 	63442 	     	      	         	   	T-241-P1-C
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	63432 	     	      	         	   	T-241-P2-C
+:      	   	      	00945	PASS 	 1.724    	OHM	GND
+:      	CC 	62027 	     	      	         	   	J-241-P21-A-8
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	64840 	     	      	         	   	J-242-P17-A-21
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	58828 	     	      	         	   	U-241-R1-A-A9
+:      	   	      	00945	PASS 	 1.815    	OHM	GND
+:      	CC 	58933 	     	      	         	   	U-241-R1-B-24
+:      	   	      	00945	PASS 	 1.859    	OHM	GND
+:      	CC 	59243 	     	      	         	   	U-242-R1-B-24
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	59138 	     	      	         	   	U-242-R1-A-A9
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	71629 	     	      	         	   	U-243-P1-A-20
+:      	   	      	00945	PASS 	 1.622    	OHM	GND
+:      	CC 	71630 	     	      	         	   	U-243-P1-A-21
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	71728 	     	      	         	   	U-243-P1-B-43
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	71732 	     	      	         	   	U-243-P1-B-47
+:      	   	      	00945	HIGH 	 19.01M   	OHM	GND
+:      	CC 	71902 	     	      	         	   	U-243-P1-D-46
+:      	   	      	00945	HIGH 	>15.00M   	OHM	GND
+:      	CC 	62435 	     	      	         	   	J-241-P16-B-6
+:      	   	      	00945	PASS 	 1.752    	OHM	GND
+:      	CC 	63227 	     	      	         	   	J-241-P17-A-8
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	33519 	     	      	         	   	P-3314-P1-70
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	57145 	     	      	         	   	U-245-R1-B-E10
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	57200 	     	      	         	   	U-245-R1-C-5
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	56806 	     	      	         	   	U-245-R2-B-C10
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	57425 	     	      	         	   	U-246-R1-B-E10
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	57430 	     	      	         	   	U-246-R1-C-5
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	58126 	     	      	         	   	U-246-R2-B-C10
+:      	   	      	00945	PASS 	 1.712    	OHM	GND
+:      	CC 	33447 	     	      	         	   	P-3314-P1-48
+:      	   	      	00945	PASS 	 1.806    	OHM	GND
+:      	CC 	33310 	     	      	         	   	P-3312-P1-41
+:      	   	      	00945	PASS 	 1.813    	OHM	GND
+:      	CC 	33503 	     	      	         	   	P-3314-P1-54
+:      	   	      	00945	PASS 	 1.884    	OHM	GND
+:      	CC 	33505 	     	      	         	   	P-3314-P1-56
+:      	   	      	00945	PASS 	 1.882    	OHM	GND
+:      	CC 	33508 	     	      	         	   	P-3314-P1-59
+:      	   	      	00945	PASS 	 1.861    	OHM	GND
+:      	CC 	61128 	     	      	         	   	U-248-P1-V
+:      	   	      	00945	PASS 	 1.635    	OHM	GND
+:      	CC 	33306 	     	      	         	   	P-3312-P1-37
+:      	   	      	00945	PASS 	 1.861    	OHM	GND
+:      	CC 	33512 	     	      	         	   	P-3314-P1-63
+:      	   	      	00945	PASS 	 1.845    	OHM	GND
+:      	CC 	33514 	     	      	         	   	P-3314-P1-65
+:      	   	      	00945	PASS 	 1.843    	OHM	GND
+:      	CC 	71438 	     	      	         	   	U-249-P1-V
+:      	   	      	00945	PASS 	 1.652    	OHM	GND
+:      	CC 	65105 	     	      	         	   	J-242-P16-A-6
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	13436 	     	      	         	   	J-243-P5-B-17
+:      	   	      	00945	PASS 	 1.685    	OHM	GND
+:      	CC 	13443 	     	      	         	   	J-243-P5-B-24
+:      	   	      	00945	PASS 	 1.704    	OHM	GND
+:      	CC 	57107 	     	      	         	   	U-245-R1-B-A10
+:      	   	      	00945	PASS 	 1.690    	OHM	GND
+:      	CC 	57337 	     	      	         	   	U-246-R1-B-A10
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	33507 	     	      	         	   	P-3314-P1-58
+:      	   	      	00945	PASS 	 1.875    	OHM	GND
+:      	CC 	33516 	     	      	         	   	P-3314-P1-67
+:      	   	      	00945	PASS 	 1.876    	OHM	GND
+:      	CC 	09321 	     	      	         	   	Q-243-R1-A-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	33537 	     	      	         	   	P-3314-P1-88
+:      	   	      	00945	PASS 	 1.790    	OHM	GND
+:      	CC 	33539 	     	      	         	   	P-3314-P1-90
+:      	   	      	00945	PASS 	 1.765    	OHM	GND
+:      	CC 	33540 	     	      	         	   	P-3314-P1-91
+:      	   	      	00945	PASS 	 1.808    	OHM	GND
+:      	CC 	13824 	     	      	         	   	S-245-P1-6
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	13825 	     	      	         	   	S-245-P1-7
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	13821 	     	      	         	   	S-245-P1-D3
+:      	   	      	00945	HIGH 	 5.906M   	OHM	GND
+:      	CC 	10839 	     	      	         	   	U-24D-R2-A-10
+:      	   	      	00945	PASS 	 1.694    	OHM	GND
+:      	CC 	10840 	     	      	         	   	U-24D-R2-A-11
+:      	   	      	00945	PASS 	 1.778    	OHM	GND
+:      	CC 	10841 	     	      	         	   	U-24D-R2-A-12
+:      	   	      	00945	PASS 	 1.772    	OHM	GND
+:      	CC 	12609 	     	      	         	   	U-24D-R3-A-10
+:      	   	      	00945	PASS 	 1.659    	OHM	GND
+:      	CC 	12610 	     	      	         	   	U-24D-R3-A-11
+:      	   	      	00945	PASS 	 1.627    	OHM	GND
+:      	CC 	12611 	     	      	         	   	U-24D-R3-A-12
+:      	   	      	00945	PASS 	 1.629    	OHM	GND
+:      	CC 	26009 	     	      	         	   	U-24E-R2-A-10
+:      	   	      	00945	PASS 	 1.623    	OHM	GND
+:      	CC 	26010 	     	      	         	   	U-24E-R2-A-11
+:      	   	      	00945	PASS 	 1.609    	OHM	GND
+:      	CC 	26011 	     	      	         	   	U-24E-R2-A-12
+:      	   	      	00945	PASS 	 1.629    	OHM	GND
+:      	CC 	26049 	     	      	         	   	U-24E-R3-A-10
+:      	   	      	00945	PASS 	 1.645    	OHM	GND
+:      	CC 	26100 	     	      	         	   	U-24E-R3-A-11
+:      	   	      	00945	PASS 	 1.668    	OHM	GND
+:      	CC 	26101 	     	      	         	   	U-24E-R3-A-12
+:      	   	      	00945	PASS 	 1.686    	OHM	GND
+:      	CC 	01439 	     	      	         	   	U-24F-R1-A-10
+:      	   	      	00945	PASS 	 1.693    	OHM	GND
+:      	CC 	01440 	     	      	         	   	U-24F-R1-A-11
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	01441 	     	      	         	   	U-24F-R1-A-12
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	01349 	     	      	         	   	U-24F-R2-A-10
+:      	   	      	00945	PASS 	 1.635    	OHM	GND
+:      	CC 	01400 	     	      	         	   	U-24F-R2-A-11
+:      	   	      	00945	PASS 	 1.737    	OHM	GND
+:      	CC 	01401 	     	      	         	   	U-24F-R2-A-12
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	11009 	     	      	         	   	U-24G-R1-A-10
+:      	   	      	00945	PASS 	 1.648    	OHM	GND
+:      	CC 	11010 	     	      	         	   	U-24G-R1-A-11
+:      	   	      	00945	PASS 	 1.757    	OHM	GND
+:      	CC 	11011 	     	      	         	   	U-24G-R1-A-12
+:      	   	      	00945	PASS 	 1.726    	OHM	GND
+:      	CC 	11529 	     	      	         	   	U-24G-R2-A-10
+:      	   	      	00945	PASS 	 1.657    	OHM	GND
+:      	CC 	11530 	     	      	         	   	U-24G-R2-A-11
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	11531 	     	      	         	   	U-24G-R2-A-12
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	57619 	     	      	         	   	U-24H-R1-A-10
+:      	   	      	00945	PASS 	 1.665    	OHM	GND
+:      	CC 	57620 	     	      	         	   	U-24H-R1-A-11
+:      	   	      	00945	PASS 	 1.752    	OHM	GND
+:      	CC 	57621 	     	      	         	   	U-24H-R1-A-12
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	55509 	     	      	         	   	U-24H-R2-A-10
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	55510 	     	      	         	   	U-24H-R2-A-11
+:      	   	      	00945	HIGH 	>13.00M   	OHM	GND
+:      	CC 	55511 	     	      	         	   	U-24H-R2-A-12
+:      	   	      	00945	HIGH 	 874.5K   	OHM	GND
+:      	CC 	04629 	     	      	         	   	U-24J-R1-A-10
+:      	   	      	00945	HIGH 	 6.131M   	OHM	GND
+:      	CC 	04630 	     	      	         	   	U-24J-R1-A-11
+:      	   	      	00945	HIGH 	 15.69M   	OHM	GND
+:      	CC 	04631 	     	      	         	   	U-24J-R1-A-12
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03149 	     	      	         	   	U-24J-R2-A-10
+:      	   	      	00945	HIGH 	 4.962M   	OHM	GND
+:      	CC 	03200 	     	      	         	   	U-24J-R2-A-11
+:      	   	      	00945	HIGH 	 5.030M   	OHM	GND
+:      	CC 	03201 	     	      	         	   	U-24J-R2-A-12
+:      	   	      	00945	PASS 	 1.710    	OHM	GND
+:      	CC 	21739 	     	      	         	   	U-24K-R1-A-10
+:      	   	      	00945	PASS 	 1.643    	OHM	GND
+:      	CC 	21740 	     	      	         	   	U-24K-R1-A-11
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	21741 	     	      	         	   	U-24K-R1-A-12
+:      	   	      	00945	PASS 	 1.693    	OHM	GND
+:      	CC 	25209 	     	      	         	   	U-24K-R2-A-10
+:      	   	      	00945	PASS 	 1.627    	OHM	GND
+:      	CC 	25210 	     	      	         	   	U-24K-R2-A-11
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	25211 	     	      	         	   	U-24K-R2-A-12
+:      	   	      	00945	PASS 	 1.709    	OHM	GND
+:      	CC 	25249 	     	      	         	   	U-24L-R1-A-10
+:      	   	      	00945	PASS 	 1.626    	OHM	GND
+:      	CC 	25300 	     	      	         	   	U-24L-R1-A-11
+:      	   	      	00945	PASS 	 1.715    	OHM	GND
+:      	CC 	25301 	     	      	         	   	U-24L-R1-A-12
+:      	   	      	00945	PASS 	 1.683    	OHM	GND
+:      	CC 	25339 	     	      	         	   	U-24L-R2-A-10
+:      	   	      	00945	PASS 	 1.617    	OHM	GND
+:      	CC 	25340 	     	      	         	   	U-24L-R2-A-11
+:      	   	      	00945	PASS 	 1.686    	OHM	GND
+:      	CC 	25341 	     	      	         	   	U-24L-R2-A-12
+:      	   	      	00945	PASS 	 1.683    	OHM	GND
+:      	CC 	73419 	     	      	         	   	U-24M-R1-A-10
+:      	   	      	00945	PASS 	 1.621    	OHM	GND
+:      	CC 	73420 	     	      	         	   	U-24M-R1-A-11
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	73421 	     	      	         	   	U-24M-R1-A-12
+:      	   	      	00945	PASS 	 1.683    	OHM	GND
+:      	CC 	73509 	     	      	         	   	U-24M-R2-A-10
+:      	   	      	00945	PASS 	 1.669    	OHM	GND
+:      	CC 	73510 	     	      	         	   	U-24M-R2-A-11
+:      	   	      	00945	PASS 	 1.741    	OHM	GND
+:      	CC 	73511 	     	      	         	   	U-24M-R2-A-12
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	27139 	     	      	         	   	U-24P-R1-A-10
+:      	   	      	00945	PASS 	 1.653    	OHM	GND
+:      	CC 	27140 	     	      	         	   	U-24P-R1-A-11
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	27141 	     	      	         	   	U-24P-R1-A-12
+:      	   	      	00945	PASS 	 1.678    	OHM	GND
+:      	CC 	27709 	     	      	         	   	U-24P-R2-A-10
+:      	   	      	00945	PASS 	 1.668    	OHM	GND
+:      	CC 	27710 	     	      	         	   	U-24P-R2-A-11
+:      	   	      	00945	PASS 	 1.787    	OHM	GND
+:      	CC 	27711 	     	      	         	   	U-24P-R2-A-12
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	65629 	     	      	         	   	U-24S-R1-A-10
+:      	   	      	00945	PASS 	 1.682    	OHM	GND
+:      	CC 	65630 	     	      	         	   	U-24S-R1-A-11
+:      	   	      	00945	PASS 	 1.764    	OHM	GND
+:      	CC 	65631 	     	      	         	   	U-24S-R1-A-12
+:      	   	      	00945	PASS 	 1.766    	OHM	GND
+:      	CC 	65439 	     	      	         	   	U-24S-R2-A-10
+:      	   	      	00945	PASS 	 1.658    	OHM	GND
+:      	CC 	65440 	     	      	         	   	U-24S-R2-A-11
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	65441 	     	      	         	   	U-24S-R2-A-12
+:      	   	      	00945	PASS 	 1.719    	OHM	GND
+:      	CC 	73739 	     	      	         	   	U-24T-R1-A-10
+:      	   	      	00945	PASS 	 1.690    	OHM	GND
+:      	CC 	73740 	     	      	         	   	U-24T-R1-A-11
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	73741 	     	      	         	   	U-24T-R1-A-12
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	73649 	     	      	         	   	U-24T-R2-A-10
+:      	   	      	00945	PASS 	 1.659    	OHM	GND
+:      	CC 	73700 	     	      	         	   	U-24T-R2-A-11
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	73701 	     	      	         	   	U-24T-R2-A-12
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	41641 	     	      	         	   	U-253-P1-2
+:      	   	      	00945	PASS 	 1.685    	OHM	GND
+:      	CC 	41633 	     	      	         	   	U-253-P2-D
+:      	   	      	00945	PASS 	 1.692    	OHM	GND
+:      	CC 	49401 	     	      	         	   	U-254-P1-2
+:      	   	      	00945	PASS 	 1.786    	OHM	GND
+:      	CC 	49433 	     	      	         	   	U-254-P2-D
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	49423 	     	      	         	   	U-254-P3-D
+:      	   	      	00945	PASS 	 1.750    	OHM	GND
+:      	CC 	49413 	     	      	         	   	U-254-P4-D
+:      	   	      	00945	PASS 	 1.760    	OHM	GND
+:      	CC 	59401 	     	      	         	   	U-261-P1-A-D1
+:      	   	      	00945	PASS 	 1.812    	OHM	GND
+:      	CC 	59403 	     	      	         	   	U-261-P1-A-D2
+:      	   	      	00945	PASS 	 1.787    	OHM	GND
+:      	CC 	59404 	     	      	         	   	U-261-P1-A-D5
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	59405 	     	      	         	   	U-261-P1-A-D6
+:      	   	      	00945	PASS 	 1.804    	OHM	GND
+:      	CC 	59406 	     	      	         	   	U-261-P1-A-D7
+:      	   	      	00945	PASS 	 1.739    	OHM	GND
+:      	CC 	59407 	     	      	         	   	U-261-P1-A-D8
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	59402 	     	      	         	   	U-261-P1-A-D12
+:      	   	      	00945	PASS 	 1.814    	OHM	GND
+:      	CC 	59545 	     	      	         	   	U-261-P1-B-G4
+:      	   	      	00945	PASS 	 1.777    	OHM	GND
+:      	CC 	59546 	     	      	         	   	U-261-P1-B-G8
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	59547 	     	      	         	   	U-261-P1-B-G9
+:      	   	      	00945	PASS 	 1.804    	OHM	GND
+:      	CC 	59541 	     	      	         	   	U-261-P1-B-G10
+:      	   	      	00945	PASS 	 1.863    	OHM	GND
+:      	CC 	59542 	     	      	         	   	U-261-P1-B-G11
+:      	   	      	00945	PASS 	 1.863    	OHM	GND
+:      	CC 	59543 	     	      	         	   	U-261-P1-B-G14
+:      	   	      	00945	PASS 	 1.825    	OHM	GND
+:      	CC 	59544 	     	      	         	   	U-261-P1-B-G15
+:      	   	      	00945	PASS 	 1.950    	OHM	GND
+:      	CC 	59612 	     	      	         	   	U-261-P1-C-23
+:      	   	      	00945	PASS 	 1.817    	OHM	GND
+:      	CC 	59613 	     	      	         	   	U-261-P1-C-24
+:      	   	      	00945	PASS 	 1.812    	OHM	GND
+:      	CC 	59611 	     	      	         	   	U-261-P1-C-22
+:      	   	      	00945	PASS 	 1.819    	OHM	GND
+:      	CC 	59608 	     	      	         	   	U-261-P1-C-19
+:      	   	      	00945	PASS 	 2.214    	OHM	GND
+:      	CC 	59609 	     	      	         	   	U-261-P1-C-20
+:      	   	      	00945	PASS 	 1.806    	OHM	GND
+:      	CC 	59610 	     	      	         	   	U-261-P1-C-21
+:      	   	      	00945	PASS 	 1.905    	OHM	GND
+:      	CC 	59424 	     	      	         	   	U-261-P1-C-9
+:      	   	      	00945	PASS 	 1.731    	OHM	GND
+:      	CC 	59607 	     	      	         	   	U-261-P1-C-10
+:      	   	      	00945	PASS 	 1.764    	OHM	GND
+:      	CC 	38110 	     	      	         	   	D-26L1-P1-11
+:      	   	      	00945	PASS 	 1.613    	OHM	GND
+:      	CC 	76610 	     	      	         	   	D-26L2-P1-11
+:      	   	      	00945	PASS 	 1.657    	OHM	GND
+:      	CC 	49040 	     	      	         	   	D-26L3-P1-11
+:      	   	      	00945	PASS 	 1.728    	OHM	GND
+:      	CC 	38100 	     	      	         	   	D-26L1-P1-1
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	76600 	     	      	         	   	D-26L2-P1-1
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	49030 	     	      	         	   	D-26L3-P1-1
+:      	   	      	00945	PASS 	 1.791    	OHM	GND
+:      	CC 	43000 	     	      	         	   	1D-26C1-P1-1
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	43010 	     	      	         	   	1D-26C1-P1-11
+:      	   	      	00945	PASS 	 1.744    	OHM	GND
+:      	CC 	43030 	     	      	         	   	1D-26C2-P1-11
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	43020 	     	      	         	   	1D-26C2-P1-1
+:      	   	      	00945	PASS 	 1.771    	OHM	GND
+:      	CC 	46010 	     	      	         	   	1D-26C3-P1-11
+:      	   	      	00945	PASS 	 1.638    	OHM	GND
+:      	CC 	46000 	     	      	         	   	1D-26C3-P1-1
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	46120 	     	      	         	   	1D-26C4-P1-1
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	46130 	     	      	         	   	1D-26C4-P1-11
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	47000 	     	      	         	   	1D-26C5-P1-1
+:      	   	      	00945	PASS 	 1.771    	OHM	GND
+:      	CC 	47010 	     	      	         	   	1D-26C5-P1-11
+:      	   	      	00945	PASS 	 1.730    	OHM	GND
+:      	CC 	43440 	     	      	         	   	2D-26C1-P1-1
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	43500 	     	      	         	   	2D-26C1-P1-11
+:      	   	      	00945	HIGH 	 10.72M   	OHM	GND
+:      	CC 	43520 	     	      	         	   	2D-26C2-P1-11
+:      	   	      	00945	PASS 	 1.773    	OHM	GND
+:      	CC 	43510 	     	      	         	   	2D-26C2-P1-1
+:      	   	      	00945	PASS 	 1.755    	OHM	GND
+:      	CC 	54930 	     	      	         	   	2D-26C3-P1-1
+:      	   	      	00945	PASS 	 1.789    	OHM	GND
+:      	CC 	54940 	     	      	         	   	2D-26C3-P1-11
+:      	   	      	00945	PASS 	 1.756    	OHM	GND
+:      	CC 	59930 	     	      	         	   	2D-26C4-P1-1
+:      	   	      	00945	PASS 	 1.823    	OHM	GND
+:      	CC 	59940 	     	      	         	   	2D-26C4-P1-11
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	48000 	     	      	         	   	2D-26C5-P1-1
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	48010 	     	      	         	   	2D-26C5-P1-11
+:      	   	      	00945	PASS 	 1.601    	OHM	GND
+:      	CC 	50623 	     	      	         	   	U-263-P2-4
+:      	   	      	00945	PASS 	 2.412    	OHM	GND
+:      	CC 	50626 	     	      	         	   	U-263-P2-7
+:      	   	      	00945	PASS 	 3.114    	OHM	GND
+:      	CC 	50632 	     	      	         	   	U-263-P3-3
+:      	   	      	00945	PASS 	 2.269    	OHM	GND
+:      	CC 	50533 	     	      	         	   	U-262-P1-4
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	50536 	     	      	         	   	U-262-P1-7
+:      	   	      	00945	HIGH 	 19.62K   	OHM	GND
+:      	CC 	50602 	     	      	         	   	U-262-P3-3
+:      	   	      	00945	PASS 	 2.268    	OHM	GND
+:      	CC 	33025 	     	      	         	   	P-3313-P1-26
+:      	   	      	00945	PASS 	 1.754    	OHM	GND
+:      	CC 	50613 	     	      	         	   	U-263-P1-4
+:      	   	      	00945	PASS 	 2.178    	OHM	GND
+:      	CC 	33101 	     	      	         	   	P-3313-P1-52
+:      	   	      	00945	PASS 	 1.795    	OHM	GND
+:      	CC 	50541 	     	      	         	   	U-262-P2-2
+:      	   	      	00945	PASS 	 2.847    	OHM	GND
+:      	CC 	50541 	     	      	         	   	U-262-P2-2
+:      	   	      	00945	PASS 	 2.862    	OHM	GND
+:      	CC 	50543 	     	      	         	   	U-262-P2-4
+:      	   	      	00945	PASS 	 2.468    	OHM	GND
+:      	CC 	50543 	     	      	         	   	U-262-P2-4
+:      	   	      	00945	PASS 	 2.460    	OHM	GND
+:      	CC 	50611 	     	      	         	   	U-263-P1-2
+:      	   	      	00945	PASS 	 2.775    	OHM	GND
+:      	CC 	50611 	     	      	         	   	U-263-P1-2
+:      	   	      	00945	PASS 	 2.753    	OHM	GND
+:      	CC 	07901 	     	      	         	   	P-261-P1-D3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	75813 	     	      	         	   	U-264-P1-4
+:      	   	      	00945	PASS 	 1.691    	OHM	GND
+:      	CC 	75811 	     	      	         	   	U-264-P1-2
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	75802 	     	      	         	   	U-264-P2-3
+:      	   	      	00945	PASS 	 2.804    	OHM	GND
+:      	CC 	33114 	     	      	         	   	P-3313-P1-65
+:      	   	      	00945	PASS 	 1.773    	OHM	GND
+:      	CC 	33118 	     	      	         	   	P-3313-P1-69
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	33120 	     	      	         	   	P-3313-P1-71
+:      	   	      	00945	PASS 	 1.826    	OHM	GND
+:      	CC 	07905 	     	      	         	   	P-261-P1-7
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	61201 	     	      	         	   	U-265-P1-2
+:      	   	      	00945	PASS 	 1.974    	OHM	GND
+:      	CC 	61203 	     	      	         	   	U-265-P1-4
+:      	   	      	00945	PASS 	 1.769    	OHM	GND
+:      	CC 	44531 	     	      	         	   	U-267-P1-2
+:      	   	      	00945	PASS 	 2.142    	OHM	GND
+:      	CC 	44533 	     	      	         	   	U-267-P1-4
+:      	   	      	00945	PASS 	 1.927    	OHM	GND
+:      	CC 	44513 	     	      	         	   	U-268-P1-4
+:      	   	      	00945	PASS 	 1.845    	OHM	GND
+:      	CC 	44511 	     	      	         	   	U-268-P1-2
+:      	   	      	00945	PASS 	 2.047    	OHM	GND
+:      	CC 	61221 	     	      	         	   	U-266-P1-2
+:      	   	      	00945	PASS 	 2.008    	OHM	GND
+:      	CC 	61223 	     	      	         	   	U-266-P1-4
+:      	   	      	00945	PASS 	 1.793    	OHM	GND
+:      	CC 	61142 	     	      	         	   	U-265-P2-3
+:      	   	      	00945	PASS 	 1.821    	OHM	GND
+:      	CC 	32716 	     	      	         	   	P-3311-P1-27
+:      	   	      	00945	PASS 	 1.762    	OHM	GND
+:      	CC 	32713 	     	      	         	   	P-3311-P1-24
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	32707 	     	      	         	   	P-3311-P1-18
+:      	   	      	00945	PASS 	 1.737    	OHM	GND
+:      	CC 	32708 	     	      	         	   	P-3311-P1-19
+:      	   	      	00945	PASS 	 1.756    	OHM	GND
+:      	CC 	61212 	     	      	         	   	U-266-P2-3
+:      	   	      	00945	PASS 	 1.861    	OHM	GND
+:      	CC 	61212 	     	      	         	   	U-266-P2-3
+:      	   	      	00945	PASS 	 1.854    	OHM	GND
+:      	CC 	36611 	     	      	         	   	P-271-P3-2
+:      	   	      	00945	PASS 	 1.671    	OHM	GND
+:      	CC 	75505 	     	      	         	   	U-27CC-P2-F
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	75515 	     	      	         	   	U-27CC-P6-F
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	37624 	     	      	         	   	U-275B-P5-5
+:      	   	      	00945	PASS 	 1.757    	OHM	GND
+:      	CC 	07541 	     	      	         	   	1U-274A-P5-A-2
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	07542 	     	      	         	   	1U-274A-P5-A-3
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	07501 	     	      	         	   	1U-274A-P8-A-2
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	07500 	     	      	         	   	1U-274A-P8-A-1
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	09001 	     	      	         	   	2U-274A-P5-A-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	09002 	     	      	         	   	2U-274A-P5-A-3
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	09231 	     	      	         	   	2U-274A-P8-A-2
+:      	   	      	00945	PASS 	 1.709    	OHM	GND
+:      	CC 	09230 	     	      	         	   	2U-274A-P8-A-1
+:      	   	      	00945	PASS 	 1.743    	OHM	GND
+:      	CC 	58731 	     	      	         	   	3U-274A-P5-A-2
+:      	   	      	00945	PASS 	 1.710    	OHM	GND
+:      	CC 	58732 	     	      	         	   	3U-274A-P5-A-3
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	59641 	     	      	         	   	3U-274A-P8-A-2
+:      	   	      	00945	PASS 	 1.731    	OHM	GND
+:      	CC 	59640 	     	      	         	   	3U-274A-P8-A-1
+:      	   	      	00945	PASS 	 1.702    	OHM	GND
+:      	CC 	56231 	     	      	         	   	1U-275A-P5-A-2
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	56232 	     	      	         	   	1U-275A-P5-A-3
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	56141 	     	      	         	   	1U-275A-P8-A-2
+:      	   	      	00945	PASS 	 1.697    	OHM	GND
+:      	CC 	56140 	     	      	         	   	1U-275A-P8-A-1
+:      	   	      	00945	PASS 	 1.715    	OHM	GND
+:      	CC 	36440 	     	      	         	   	D-271D-P1-1
+:      	   	      	00945	PASS 	 1.785    	OHM	GND
+:      	CC 	54127 	     	      	         	   	1U-271D-P1-A-F8
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	54212 	     	      	         	   	1U-271D-P1-B-F8
+:      	   	      	00945	PASS 	 1.693    	OHM	GND
+:      	CC 	55127 	     	      	         	   	2U-271D-P1-A-F8
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	55222 	     	      	         	   	2U-271D-P1-B-F8
+:      	   	      	00945	PASS 	 1.757    	OHM	GND
+:      	CC 	54305 	     	      	         	   	1U-271D-P1-C-P3
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	55315 	     	      	         	   	2U-271D-P1-C-P3
+:      	   	      	00945	PASS 	 1.851    	OHM	GND
+:      	CC 	54304 	     	      	         	   	1U-271D-P1-C-P2
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	55314 	     	      	         	   	2U-271D-P1-C-P2
+:      	   	      	00945	PASS 	 1.780    	OHM	GND
+:      	CC 	30809 	     	      	         	   	P-221-P1-20
+:      	   	      	00945	PASS 	 1.719    	OHM	GND
+:      	CC 	30802 	     	      	         	   	P-221-P1-13
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	30729 	     	      	         	   	P-221-P2-20
+:      	   	      	00945	PASS 	 1.699    	OHM	GND
+:      	CC 	30722 	     	      	         	   	P-221-P2-13
+:      	   	      	00945	PASS 	 1.848    	OHM	GND
+:      	CC 	70123 	     	      	         	   	P-281-P1-24
+:      	   	      	00945	PASS 	 2.408    	OHM	GND
+:      	CC 	51639 	     	      	         	   	U-282-P4-10
+:      	   	      	00945	PASS 	 2.067    	OHM	GND
+:      	CC 	51733 	     	      	         	   	U-282-P4-54
+:      	   	      	00945	PASS 	 2.143    	OHM	GND
+:      	CC 	53319 	     	      	         	   	U-283-P4-10
+:      	   	      	00945	PASS 	 2.069    	OHM	GND
+:      	CC 	53413 	     	      	         	   	U-283-P4-54
+:      	   	      	00945	PASS 	 2.084    	OHM	GND
+:      	CC 	69615 	     	      	         	   	M-28C-P1-F
+:      	   	      	00945	PASS 	 1.633    	OHM	GND
+:      	CC 	69610 	     	      	         	   	M-28C-P1-A
+:      	   	      	00945	PASS 	 2.300    	OHM	GND
+:      	CC 	15331 	     	      	         	   	U-281-P5-Y
+:      	   	      	00945	PASS 	 1.758    	OHM	GND
+:      	CC 	70108 	     	      	         	   	P-281-P1-9
+:      	   	      	00945	PASS 	 1.647    	OHM	GND
+:      	CC 	15330 	     	      	         	   	U-281-P5-X
+:      	   	      	00945	PASS 	 1.788    	OHM	GND
+:      	CC 	33417 	     	      	         	   	P-3314-P1-18
+:      	   	      	00945	PASS 	 1.806    	OHM	GND
+:      	CC 	32614 	     	      	         	   	P-3314-P2-45
+:      	   	      	00945	PASS 	 1.801    	OHM	GND
+:      	CC 	33414 	     	      	         	   	P-3314-P1-15
+:      	   	      	00945	PASS 	 1.859    	OHM	GND
+:      	CC 	33440 	     	      	         	   	P-3314-P1-41
+:      	   	      	00945	PASS 	 1.834    	OHM	GND
+:      	CC 	32529 	     	      	         	   	P-3314-P2-10
+:      	   	      	00945	PASS 	 1.832    	OHM	GND
+:      	CC 	33443 	     	      	         	   	P-3314-P1-44
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	32536 	     	      	         	   	P-3314-P2-17
+:      	   	      	00945	PASS 	 1.845    	OHM	GND
+:      	CC 	67410 	     	      	         	   	M-289-P1-A
+:      	   	      	00945	PASS 	 2.214    	OHM	GND
+:      	CC 	67415 	     	      	         	   	M-289-P1-F
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	69425 	     	      	         	   	M-28A-P1-F
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	69420 	     	      	         	   	M-28A-P1-A
+:      	   	      	00945	HIGH 	 3.386M   	OHM	GND
+:      	CC 	32532 	     	      	         	   	P-3314-P2-13
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	51445 	     	      	         	   	M-28B-P1-F
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	51440 	     	      	         	   	M-28B-P1-A
+:      	   	      	00945	PASS 	 1.922    	OHM	GND
+:      	CC 	67400 	     	      	         	   	M-282-P1-L
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	67330 	     	      	         	   	M-281-P1-L
+:      	   	      	00945	HIGH 	 6.927M   	OHM	GND
+:      	CC 	69410 	     	      	         	   	M-284-P1-L
+:      	   	      	00945	HIGH 	 6.033M   	OHM	GND
+:      	CC 	69340 	     	      	         	   	M-283-P1-L
+:      	   	      	00945	HIGH 	 4.137M   	OHM	GND
+:      	CC 	32546 	     	      	         	   	P-3314-P2-27
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	33420 	     	      	         	   	P-3314-P1-21
+:      	   	      	00945	PASS 	 1.848    	OHM	GND
+:      	CC 	32541 	     	      	         	   	P-3314-P2-22
+:      	   	      	00945	PASS 	 1.906    	OHM	GND
+:      	CC 	33426 	     	      	         	   	P-3314-P1-27
+:      	   	      	00945	PASS 	 1.693    	OHM	GND
+:      	CC 	53140 	     	      	         	   	M-286-P1-L
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	51530 	     	      	         	   	M-285-P1-L
+:      	   	      	00945	HIGH 	 113.6K   	OHM	GND
+:      	CC 	32612 	     	      	         	   	P-3314-P2-43
+:      	   	      	00945	PASS 	 1.675    	OHM	GND
+:      	CC 	33428 	     	      	         	   	P-3314-P1-29
+:      	   	      	00945	PASS 	 1.777    	OHM	GND
+:      	CC 	32601 	     	      	         	   	P-3314-P2-32
+:      	   	      	00945	PASS 	 1.894    	OHM	GND
+:      	CC 	33431 	     	      	         	   	P-3314-P1-32
+:      	   	      	00945	PASS 	 1.775    	OHM	GND
+:      	CC 	67329 	     	      	         	   	M-281-P1-K
+:      	   	      	00945	PASS 	 2.509    	OHM	GND
+:      	CC 	67349 	     	      	         	   	M-282-P1-K
+:      	   	      	00945	PASS 	 1.866    	OHM	GND
+:      	CC 	69339 	     	      	         	   	M-283-P1-K
+:      	   	      	00945	PASS 	 1.974    	OHM	GND
+:      	CC 	69409 	     	      	         	   	M-284-P1-K
+:      	   	      	00945	PASS 	 2.260    	OHM	GND
+:      	CC 	51529 	     	      	         	   	M-285-P1-K
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	53139 	     	      	         	   	M-286-P1-K
+:      	   	      	00945	HIGH 	 2.221M   	OHM	GND
+:      	CC 	32548 	     	      	         	   	P-3314-P2-29
+:      	   	      	00945	PASS 	 1.862    	OHM	GND
+:      	CC 	33423 	     	      	         	   	P-3314-P1-24
+:      	   	      	00945	PASS 	 1.844    	OHM	GND
+:      	CC 	32609 	     	      	         	   	P-3314-P2-40
+:      	   	      	00945	PASS 	 1.847    	OHM	GND
+:      	CC 	33437 	     	      	         	   	P-3314-P1-38
+:      	   	      	00945	PASS 	 1.842    	OHM	GND
+:      	CC 	32604 	     	      	         	   	P-3314-P2-35
+:      	   	      	00945	PASS 	 1.879    	OHM	GND
+:      	CC 	68141 	     	      	         	   	M-287-P1-2
+:      	   	      	00945	PASS 	 1.765    	OHM	GND
+:      	CC 	51540 	     	      	         	   	M-288-P1-A
+:      	   	      	00945	PASS 	 2.059    	OHM	GND
+:      	CC 	51545 	     	      	         	   	M-288-P1-F
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	33433 	     	      	         	   	P-3314-P1-34
+:      	   	      	00945	PASS 	 1.858    	OHM	GND
+:      	CC 	33435 	     	      	         	   	P-3314-P1-36
+:      	   	      	00945	PASS 	 1.836    	OHM	GND
+:      	CC 	68142 	     	      	         	   	M-287-P1-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	68143 	     	      	         	   	M-287-P1-4
+:      	   	      	00945	HIGH 	 853.8K   	OHM	GND
+:      	CC 	51646 	     	      	         	   	U-282-P4-17
+:      	   	      	00945	PASS 	 2.086    	OHM	GND
+:      	CC 	51704 	     	      	         	   	U-282-P4-25
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	51729 	     	      	         	   	U-282-P4-50
+:      	   	      	00945	PASS 	 2.034    	OHM	GND
+:      	CC 	53409 	     	      	         	   	U-283-P4-50
+:      	   	      	00945	PASS 	 2.052    	OHM	GND
+:      	CC 	53334 	     	      	         	   	U-283-P4-25
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	53326 	     	      	         	   	U-283-P4-17
+:      	   	      	00945	PASS 	 1.917    	OHM	GND
+:      	CC 	53336 	     	      	         	   	U-283-P4-27
+:      	   	      	00945	PASS 	 1.705    	OHM	GND
+:      	CC 	51706 	     	      	         	   	U-282-P4-27
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	67200 	     	      	         	   	D-2811-P1-A
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	67210 	     	      	         	   	D-2812-P1-A
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	69220 	     	      	         	   	D-2813-P1-A
+:      	   	      	00945	HIGH 	 5.611M   	OHM	GND
+:      	CC 	69230 	     	      	         	   	D-2814-P1-A
+:      	   	      	00945	HIGH 	 50.82K   	OHM	GND
+:      	CC 	51500 	     	      	         	   	D-2815-P1-A
+:      	   	      	00945	HIGH 	 181.3K   	OHM	GND
+:      	CC 	53110 	     	      	         	   	D-2816-P1-A
+:      	   	      	00945	HIGH 	 3.039M   	OHM	GND
+:      	CC 	67220 	     	      	         	   	D-2817-P1-A
+:      	   	      	00945	HIGH 	>15.02M   	OHM	GND
+:      	CC 	52612 	     	      	         	   	D-29C-P3-C
+:      	   	      	00945	PASS 	 1.634    	OHM	GND
+:      	CC 	52641 	     	      	         	   	D-29P-P2-B
+:      	   	      	00945	PASS 	 1.831    	OHM	GND
+:      	CC 	68137 	     	      	         	   	E-293-P1-H
+:      	   	      	00945	PASS 	 2.324    	OHM	GND
+:      	CC 	68133 	     	      	         	   	E-293-P1-D
+:      	   	      	00945	PASS 	 1.768    	OHM	GND
+:      	CC 	52541 	     	      	         	   	D-29A-P1-2
+:      	   	      	00945	PASS 	 1.859    	OHM	GND
+:      	CC 	52601 	     	      	         	   	D-29B-P2-2
+:      	   	      	00945	PASS 	 1.829    	OHM	GND
+:      	CC 	52724 	     	      	         	   	E-295-P4-5
+:      	   	      	00945	PASS 	 1.737    	OHM	GND
+:      	CC 	52721 	     	      	         	   	E-295-P4-2
+:      	   	      	00945	PASS 	 1.831    	OHM	GND
+:      	CC 	52512 	     	      	         	   	D-291-P1-C
+:      	   	      	00945	PASS 	 1.660    	OHM	GND
+:      	CC 	52522 	     	      	         	   	D-292-P1-C
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	52532 	     	      	         	   	D-293-P1-C
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	33202 	     	      	         	   	P-3313-P2-23
+:      	   	      	00945	PASS 	 1.767    	OHM	GND
+:      	CC 	33209 	     	      	         	   	P-3313-P2-30
+:      	   	      	00945	PASS 	 1.712    	OHM	GND
+:      	CC 	33133 	     	      	         	   	P-3313-P2-4
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	60332 	     	      	         	   	D-294-P1-C
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	60342 	     	      	         	   	D-295-P1-C
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	60402 	     	      	         	   	D-296-P1-C
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	60511 	     	      	         	   	D-29S-P2-B
+:      	   	      	00945	PASS 	 2.061    	OHM	GND
+:      	CC 	60411 	     	      	         	   	D-29E-P1-2
+:      	   	      	00945	PASS 	 1.817    	OHM	GND
+:      	CC 	60421 	     	      	         	   	D-29F-P2-2
+:      	   	      	00945	PASS 	 1.908    	OHM	GND
+:      	CC 	60432 	     	      	         	   	D-29G-P3-C
+:      	   	      	00945	PASS 	 1.754    	OHM	GND
+:      	CC 	70417 	     	      	         	   	E-294-P1-H
+:      	   	      	00945	PASS 	 2.497    	OHM	GND
+:      	CC 	70413 	     	      	         	   	E-294-P1-D
+:      	   	      	00945	PASS 	 3.781    	OHM	GND
+:      	CC 	60534 	     	      	         	   	E-296-P4-5
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	60531 	     	      	         	   	E-296-P4-2
+:      	   	      	00945	PASS 	 1.831    	OHM	GND
+:      	CC 	33146 	     	      	         	   	P-3313-P2-17
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	76002 	     	      	         	   	D-297-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	75721 	     	      	         	   	D-29V-P2-B
+:      	   	      	00945	HIGH 	 3.227M   	OHM	GND
+:      	CC 	76031 	     	      	         	   	D-29J-P1-2
+:      	   	      	00945	PASS 	 1.862    	OHM	GND
+:      	CC 	76041 	     	      	         	   	D-29K-P2-2
+:      	   	      	00945	PASS 	 1.847    	OHM	GND
+:      	CC 	76102 	     	      	         	   	D-29L-P3-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	76022 	     	      	         	   	D-299-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	76012 	     	      	         	   	D-298-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	75741 	     	      	         	   	E-297-P4-2
+:      	   	      	00945	HIGH 	 816.6K   	OHM	GND
+:      	CC 	75744 	     	      	         	   	E-297-P4-5
+:      	   	      	00945	HIGH 	 67.87K   	OHM	GND
+:      	CC 	33136 	     	      	         	   	P-3313-P2-7
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	33144 	     	      	         	   	P-3313-P2-15
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	20724 	     	      	         	   	U-291-P6-*M
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	20702 	     	      	         	   	U-291-P6-N
+:      	   	      	00945	PASS 	 1.674    	OHM	GND
+:      	CC 	20715 	     	      	         	   	U-291-P6-*C
+:      	   	      	00945	PASS 	 1.634    	OHM	GND
+:      	CC 	20714 	     	      	         	   	U-291-P6-*B
+:      	   	      	00945	PASS 	 1.633    	OHM	GND
+:      	CC 	20710 	     	      	         	   	U-291-P6-X
+:      	   	      	00945	PASS 	 1.800    	OHM	GND
+:      	CC 	20711 	     	      	         	   	U-291-P6-Y
+:      	   	      	00945	PASS 	 1.790    	OHM	GND
+:      	CC 	67601 	     	      	         	   	D-301-P1-B
+:      	   	      	00945	PASS 	 2.304    	OHM	GND
+:      	CC 	67611 	     	      	         	   	D-303-P1-B
+:      	   	      	00945	PASS 	 2.261    	OHM	GND
+:      	CC 	70001 	     	      	         	   	D-302-P1-B
+:      	   	      	00945	PASS 	 2.290    	OHM	GND
+:      	CC 	70011 	     	      	         	   	D-304-P1-B
+:      	   	      	00945	PASS 	 2.348    	OHM	GND
+:      	CC 	67722 	     	      	         	   	M-301-P1-C
+:      	   	      	00945	PASS 	 1.732    	OHM	GND
+:      	CC 	70042 	     	      	         	   	M-302-P1-C
+:      	   	      	00945	PASS 	 1.681    	OHM	GND
+:      	CC 	33734 	     	      	         	   	P-3316-P1-5
+:      	   	      	00945	PASS 	 1.814    	OHM	GND
+:      	CC 	33737 	     	      	         	   	P-3316-P1-8
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	33748 	     	      	         	   	P-3316-P1-19
+:      	   	      	00945	PASS 	 1.792    	OHM	GND
+:      	CC 	33811 	     	      	         	   	P-3316-P1-32
+:      	   	      	00945	PASS 	 1.782    	OHM	GND
+:      	CC 	33821 	     	      	         	   	P-3316-P1-42
+:      	   	      	00945	PASS 	 1.855    	OHM	GND
+:      	CC 	02413 	     	      	         	   	U-301-P2-D
+:      	   	      	00945	PASS 	 1.592    	OHM	GND
+:      	CC 	02432 	     	      	         	   	U-301-P1-C
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	34114 	     	      	         	   	P-3317-P1-5
+:      	   	      	00945	PASS 	 1.775    	OHM	GND
+:      	CC 	34116 	     	      	         	   	P-3317-P1-7
+:      	   	      	00945	PASS 	 1.656    	OHM	GND
+:      	CC 	33248 	     	      	         	   	P-3312-P1-29
+:      	   	      	00945	PASS 	 1.823    	OHM	GND
+:      	CC 	02445 	     	      	         	   	U-301-P1-S
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	05002 	     	      	         	   	U-302-P1-C
+:      	   	      	00945	PASS 	 1.774    	OHM	GND
+:      	CC 	05813 	     	      	         	   	U-302-P2-D
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	05015 	     	      	         	   	U-302-P1-S
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	02903 	     	      	         	   	U-303-P2-D
+:      	   	      	00945	PASS 	 1.664    	OHM	GND
+:      	CC 	02642 	     	      	         	   	U-303-P1-C
+:      	   	      	00945	PASS 	 1.786    	OHM	GND
+:      	CC 	34118 	     	      	         	   	P-3317-P1-9
+:      	   	      	00945	PASS 	 1.773    	OHM	GND
+:      	CC 	34120 	     	      	         	   	P-3317-P1-11
+:      	   	      	00945	PASS 	 1.846    	OHM	GND
+:      	CC 	02705 	     	      	         	   	U-303-P1-S
+:      	   	      	00945	PASS 	 1.691    	OHM	GND
+:      	CC 	29810 	     	      	         	   	U-306-P1-L
+:      	   	      	00945	PASS 	 1.762    	OHM	GND
+:      	CC 	29830 	     	      	         	   	U-307-P1-L
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	31406 	     	      	         	   	U-308-P1-7
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	31402 	     	      	         	   	U-308-P1-3
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	31616 	     	      	         	   	U-309-P1-7
+:      	   	      	00945	PASS 	 1.762    	OHM	GND
+:      	CC 	31612 	     	      	         	   	U-309-P1-3
+:      	   	      	00945	PASS 	 1.852    	OHM	GND
+:      	CC 	31631 	     	      	         	   	U-309-P1-22
+:      	   	      	00945	PASS 	 1.802    	OHM	GND
+:      	CC 	31421 	     	      	         	   	U-308-P1-22
+:      	   	      	00945	PASS 	 1.789    	OHM	GND
+:      	CC 	30401 	     	      	         	   	E-302-P1-B
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	30402 	     	      	         	   	E-302-P1-C
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	01103 	     	      	         	   	E-303-P1-4
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	30341 	     	      	         	   	E-301-P1-B
+:      	   	      	00945	PASS 	 1.732    	OHM	GND
+:      	CC 	30342 	     	      	         	   	E-301-P1-C
+:      	   	      	00945	PASS 	 1.767    	OHM	GND
+:      	CC 	30531 	     	      	         	   	E-304-P1-B
+:      	   	      	00945	PASS 	 1.757    	OHM	GND
+:      	CC 	30532 	     	      	         	   	E-304-P1-C
+:      	   	      	00945	PASS 	 1.825    	OHM	GND
+:      	CC 	28326 	     	      	         	   	D-307-P1-7
+:      	   	      	00945	PASS 	 1.674    	OHM	GND
+:      	CC 	28322 	     	      	         	   	D-307-P1-3
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	28327 	     	      	         	   	D-307-P1-8
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	33245 	     	      	         	   	P-3312-P1-26
+:      	   	      	00945	PASS 	 1.767    	OHM	GND
+:      	CC 	28346 	     	      	         	   	D-308-P1-7
+:      	   	      	00945	PASS 	 1.697    	OHM	GND
+:      	CC 	28342 	     	      	         	   	D-308-P1-3
+:      	   	      	00945	PASS 	 1.779    	OHM	GND
+:      	CC 	28347 	     	      	         	   	D-308-P1-8
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	14002 	     	      	         	   	1U-23B-P1-C
+:      	   	      	00945	PASS 	 1.702    	OHM	GND
+:      	CC 	14011 	     	      	         	   	1U-23B-P1-M
+:      	   	      	00945	PASS 	 1.621    	OHM	GND
+:      	CC 	14033 	     	      	         	   	1U-23B-P1-*N
+:      	   	      	00945	PASS 	 1.702    	OHM	GND
+:      	CC 	14043 	     	      	         	   	1U-23B-P1-*Y
+:      	   	      	00945	PASS 	 1.851    	OHM	GND
+:      	CC 	14103 	     	      	         	   	1U-23B-P1-JJ
+:      	   	      	00945	PASS 	 1.687    	OHM	GND
+:      	CC 	14025 	     	      	         	   	1U-23B-P1-*C
+:      	   	      	00945	PASS 	 1.685    	OHM	GND
+:      	CC 	72234 	     	      	         	   	2U-23B-P1-KK
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	72132 	     	      	         	   	2U-23B-P1-C
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	72141 	     	      	         	   	2U-23B-P1-M
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	72233 	     	      	         	   	2U-23B-P1-JJ
+:      	   	      	00945	PASS 	 1.668    	OHM	GND
+:      	CC 	72223 	     	      	         	   	2U-23B-P1-*Y
+:      	   	      	00945	PASS 	 1.668    	OHM	GND
+:      	CC 	72205 	     	      	         	   	2U-23B-P1-*C
+:      	   	      	00945	PASS 	 1.664    	OHM	GND
+:      	CC 	15232 	     	      	         	   	G-231-P1-3
+:      	   	      	00945	PASS 	 1.723    	OHM	GND
+:      	CC 	15245 	     	      	         	   	G-231-P1-16
+:      	   	      	00945	PASS 	 1.688    	OHM	GND
+:      	CC 	34331 	     	      	         	   	P-3316-P3-2
+:      	   	      	00945	PASS 	 1.773    	OHM	GND
+:      	CC 	51741 	     	      	         	   	U-314-P1-B
+:      	   	      	00945	PASS 	 1.980    	OHM	GND
+:      	CC 	51748 	     	      	         	   	U-314-P1-J
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	31824 	     	      	         	   	1P-311-P1-C-55
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	31827 	     	      	         	   	1P-311-P1-C-58
+:      	   	      	00945	HIGH 	 17.19M   	OHM	GND
+:      	CC 	31828 	     	      	         	   	1P-311-P1-C-59
+:      	   	      	00945	HIGH 	 1.930M   	OHM	GND
+:      	CC 	32324 	     	      	         	   	2P-311-P1-C-55
+:      	   	      	00945	HIGH 	>16.47M   	OHM	GND
+:      	CC 	32327 	     	      	         	   	2P-311-P1-C-58
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	32328 	     	      	         	   	2P-311-P1-C-59
+:      	   	      	00945	HIGH 	 3.170M   	OHM	GND
+:      	CC 	32134 	     	      	         	   	1P-312-P1-C-55
+:      	   	      	00945	HIGH 	>20.02M   	OHM	GND
+:      	CC 	32137 	     	      	         	   	1P-312-P1-C-58
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	32138 	     	      	         	   	1P-312-P1-C-59
+:      	   	      	00945	HIGH 	 2.153M   	OHM	GND
+:      	CC 	32514 	     	      	         	   	2P-312-P1-C-55
+:      	   	      	00945	HIGH 	 3.077M   	OHM	GND
+:      	CC 	32517 	     	      	         	   	2P-312-P1-C-58
+:      	   	      	00945	HIGH 	 975.6K   	OHM	GND
+:      	CC 	32518 	     	      	         	   	2P-312-P1-C-59
+:      	   	      	00945	HIGH 	 2.108M   	OHM	GND
+:      	CC 	37544 	     	      	         	   	3P-312-P1-C-55
+:      	   	      	00945	HIGH 	>15.14M   	OHM	GND
+:      	CC 	37547 	     	      	         	   	3P-312-P1-C-58
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	37548 	     	      	         	   	3P-312-P1-C-59
+:      	   	      	00945	HIGH 	 790.0K   	OHM	GND
+:      	CC 	30000 	     	      	         	   	1P-313-P1-1
+:      	   	      	00945	PASS 	 1.730    	OHM	GND
+:      	CC 	30007 	     	      	         	   	1P-313-P1-8
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	30016 	     	      	         	   	1P-313-P1-17
+:      	   	      	00945	PASS 	 1.677    	OHM	GND
+:      	CC 	30100 	     	      	         	   	2P-313-P1-1
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	30107 	     	      	         	   	2P-313-P1-8
+:      	   	      	00945	PASS 	 1.671    	OHM	GND
+:      	CC 	30116 	     	      	         	   	2P-313-P1-17
+:      	   	      	00945	PASS 	 1.654    	OHM	GND
+:      	CC 	34720 	     	      	         	   	1P-314-P1-1
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	34727 	     	      	         	   	1P-314-P1-8
+:      	   	      	00945	PASS 	 1.671    	OHM	GND
+:      	CC 	34736 	     	      	         	   	1P-314-P1-17
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	35300 	     	      	         	   	2P-314-P1-1
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	35307 	     	      	         	   	2P-314-P1-8
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	35316 	     	      	         	   	2P-314-P1-17
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	34810 	     	      	         	   	1P-315-P1-1
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	34817 	     	      	         	   	1P-315-P1-8
+:      	   	      	00945	PASS 	 1.665    	OHM	GND
+:      	CC 	34826 	     	      	         	   	1P-315-P1-17
+:      	   	      	00945	PASS 	 1.686    	OHM	GND
+:      	CC 	35340 	     	      	         	   	2P-315-P1-1
+:      	   	      	00945	PASS 	 1.752    	OHM	GND
+:      	CC 	35347 	     	      	         	   	2P-315-P1-8
+:      	   	      	00945	PASS 	 1.692    	OHM	GND
+:      	CC 	35406 	     	      	         	   	2P-315-P1-17
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	35000 	     	      	         	   	1P-316-P1-1
+:      	   	      	00945	PASS 	 1.769    	OHM	GND
+:      	CC 	35007 	     	      	         	   	1P-316-P1-8
+:      	   	      	00945	PASS 	 1.672    	OHM	GND
+:      	CC 	35016 	     	      	         	   	1P-316-P1-17
+:      	   	      	00945	PASS 	 1.694    	OHM	GND
+:      	CC 	31241 	     	      	         	   	P-331G-P1-22
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	31242 	     	      	         	   	P-331G-P1-23
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	31247 	     	      	         	   	P-331G-P1-28
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	31248 	     	      	         	   	P-331G-P1-29
+:      	   	      	00945	PASS 	 1.724    	OHM	GND
+:      	CC 	31331 	     	      	         	   	P-331H-P1-22
+:      	   	      	00945	PASS 	 1.792    	OHM	GND
+:      	CC 	31332 	     	      	         	   	P-331H-P1-23
+:      	   	      	00945	PASS 	 1.783    	OHM	GND
+:      	CC 	31337 	     	      	         	   	P-331H-P1-28
+:      	   	      	00945	PASS 	 1.731    	OHM	GND
+:      	CC 	31338 	     	      	         	   	P-331H-P1-29
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	07438 	     	      	         	   	2U-321-P1-F-5
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	07429 	     	      	         	   	2U-321-P1-F-11
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	30835 	     	      	         	   	P-321-P1-16
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	30828 	     	      	         	   	P-321-P1-9
+:      	   	      	00945	PASS 	 1.743    	OHM	GND
+:      	CC 	22617 	     	      	         	   	1U-321-P1-F-5
+:      	   	      	00945	PASS 	 1.676    	OHM	GND
+:      	CC 	22619 	     	      	         	   	1U-321-P1-F-11
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	31018 	     	      	         	   	P-321-P2-V
+:      	   	      	00945	HIGH 	 56.95K   	OHM	GND
+:      	CC 	07330 	     	      	         	   	2U-321-P1-B-D11
+:      	   	      	00945	PASS 	 2.088    	OHM	GND
+:      	CC 	07329 	     	      	         	   	2U-321-P1-B-D10
+:      	   	      	00945	PASS 	 2.006    	OHM	GND
+:      	CC 	07323 	     	      	         	   	2U-321-P1-B-C12
+:      	   	      	00945	PASS 	 2.206    	OHM	GND
+:      	CC 	07249 	     	      	         	   	2U-321-P1-B-A10
+:      	   	      	00945	PASS 	 1.995    	OHM	GND
+:      	CC 	07301 	     	      	         	   	2U-321-P1-B-A12
+:      	   	      	00945	PASS 	 2.077    	OHM	GND
+:      	CC 	07300 	     	      	         	   	2U-321-P1-B-A11
+:      	   	      	00945	PASS 	 2.212    	OHM	GND
+:      	CC 	31013 	     	      	         	   	P-321-P2-P
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	31005 	     	      	         	   	P-321-P2-F
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	31003 	     	      	         	   	P-321-P2-D
+:      	   	      	00945	HIGH 	>15.47M   	OHM	GND
+:      	CC 	52832 	     	      	         	   	1E-326-P1-C
+:      	   	      	00945	PASS 	 1.783    	OHM	GND
+:      	CC 	31524 	     	      	         	   	S-325-P1-5
+:      	   	      	00945	PASS 	 1.834    	OHM	GND
+:      	CC 	60042 	     	      	         	   	2E-326-P1-C
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	53424 	     	      	         	   	U-324-P1-5
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	53427 	     	      	         	   	U-324-P1-8
+:      	   	      	00945	PASS 	 1.699    	OHM	GND
+:      	CC 	53432 	     	      	         	   	U-324-P1-13
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	51814 	     	      	         	   	U-323-P1-5
+:      	   	      	00945	PASS 	 1.755    	OHM	GND
+:      	CC 	51817 	     	      	         	   	U-323-P1-8
+:      	   	      	00945	PASS 	 1.723    	OHM	GND
+:      	CC 	51822 	     	      	         	   	U-323-P1-13
+:      	   	      	00945	PASS 	 1.773    	OHM	GND
+:      	CC 	31015 	     	      	         	   	P-321-P2-S
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	28031 	     	      	         	   	1J-233-P1-2
+:      	   	      	00945	PASS 	 2.122    	OHM	GND
+:      	CC 	28131 	     	      	         	   	2J-233-P1-2
+:      	   	      	00945	PASS 	 1.912    	OHM	GND
+:      	CC 	28231 	     	      	         	   	3J-233-P1-2
+:      	   	      	00945	PASS 	 1.819    	OHM	GND
+:      	CC 	36711 	     	      	         	   	P-3319-P1-2
+:      	   	      	00945	PASS 	 2.022    	OHM	GND
+:      	CC 	29407 	     	      	         	   	L-3311-R1-8
+:      	   	      	00945	PASS 	 1.672    	OHM	GND
+:      	CC 	29147 	     	      	         	   	L-3312-R1-8
+:      	   	      	00945	PASS 	 1.649    	OHM	GND
+:      	CC 	29237 	     	      	         	   	L-3313-R1-8
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	28532 	     	      	         	   	L-3327-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	28542 	     	      	         	   	L-3328-P1-C
+:      	   	      	00945	PASS 	 1.731    	OHM	GND
+:      	CC 	28602 	     	      	         	   	L-3329-P1-C
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	32641 	     	      	         	   	P-3311-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	32814 	     	      	         	   	P-3311-P2-5
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	33221 	     	      	         	   	P-3312-P1-2
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	32821 	     	      	         	   	P-3312-P2-2
+:      	   	      	00945	PASS 	 1.779    	OHM	GND
+:      	CC 	34111 	     	      	         	   	P-3317-P1-2
+:      	   	      	00945	PASS 	 1.690    	OHM	GND
+:      	CC 	34244 	     	      	         	   	P-3317-P2-5
+:      	   	      	00945	PASS 	 1.744    	OHM	GND
+:      	CC 	33914 	     	      	         	   	P-3316-P2-5
+:      	   	      	00945	PASS 	 1.779    	OHM	GND
+:      	CC 	33731 	     	      	         	   	P-3316-P1-2
+:      	   	      	00945	PASS 	 1.821    	OHM	GND
+:      	CC 	34324 	     	      	         	   	P-3318-P2-5
+:      	   	      	00945	PASS 	 1.754    	OHM	GND
+:      	CC 	34001 	     	      	         	   	P-3318-P1-2
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	33724 	     	      	         	   	P-3315-P2-5
+:      	   	      	00945	PASS 	 1.792    	OHM	GND
+:      	CC 	33403 	     	      	         	   	P-3314-P1-4
+:      	   	      	00945	PASS 	 1.780    	OHM	GND
+:      	CC 	32535 	     	      	         	   	P-3314-P2-16
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	33001 	     	      	         	   	P-3313-P1-2
+:      	   	      	00945	PASS 	 1.790    	OHM	GND
+:      	CC 	05621 	     	      	         	   	U-3311-P2-2
+:      	   	      	00945	PASS 	 1.766    	OHM	GND
+:      	CC 	31311 	     	      	         	   	P-331H-P1-2
+:      	   	      	00945	PASS 	 1.795    	OHM	GND
+:      	CC 	31501 	     	      	         	   	P-331H-P2-2
+:      	   	      	00945	PASS 	 1.789    	OHM	GND
+:      	CC 	31431 	     	      	         	   	P-331G-P2-2
+:      	   	      	00945	PASS 	 1.765    	OHM	GND
+:      	CC 	31221 	     	      	         	   	P-331G-P1-2
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	31101 	     	      	         	   	P-331B-P2-2
+:      	   	      	00945	PASS 	 1.750    	OHM	GND
+:      	CC 	31021 	     	      	         	   	P-331B-P1-2
+:      	   	      	00945	PASS 	 1.793    	OHM	GND
+:      	CC 	31141 	     	      	         	   	P-331C-P1-2
+:      	   	      	00945	PASS 	 1.779    	OHM	GND
+:      	CC 	31121 	     	      	         	   	P-331C-P2-2
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	37001 	     	      	         	   	P-331A-P2-2
+:      	   	      	00945	PASS 	 1.743    	OHM	GND
+:      	CC 	36801 	     	      	         	   	P-331A-P1-2
+:      	   	      	00945	PASS 	 1.797    	OHM	GND
+:      	CC 	34016 	     	      	         	   	P-3318-P1-17
+:      	   	      	00945	PASS 	 1.772    	OHM	GND
+:      	CC 	32632 	     	      	         	   	L-3318-P1-C
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	34018 	     	      	         	   	P-3318-P1-19
+:      	   	      	00945	PASS 	 1.815    	OHM	GND
+:      	CC 	28601 	     	      	         	   	L-3329-P1-B
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	28541 	     	      	         	   	L-3328-P1-B
+:      	   	      	00945	PASS 	 1.790    	OHM	GND
+:      	CC 	34045 	     	      	         	   	P-3318-P1-46
+:      	   	      	00945	PASS 	 1.865    	OHM	GND
+:      	CC 	31317 	     	      	         	   	P-331H-P1-8
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	33738 	     	      	         	   	P-3316-P1-9
+:      	   	      	00945	PASS 	 1.858    	OHM	GND
+:      	CC 	34123 	     	      	         	   	P-3317-P1-14
+:      	   	      	00945	PASS 	 1.869    	OHM	GND
+:      	CC 	33326 	     	      	         	   	P-3312-P1-57
+:      	   	      	00945	PASS 	 1.840    	OHM	GND
+:      	CC 	33631 	     	      	         	   	P-3315-P1-2
+:      	   	      	00945	PASS 	 1.813    	OHM	GND
+:      	CC 	33637 	     	      	         	   	P-3315-P1-8
+:      	   	      	00945	PASS 	 1.810    	OHM	GND
+:      	CC 	32746 	     	      	         	   	P-3311-P1-57
+:      	   	      	00945	PASS 	 1.848    	OHM	GND
+:      	CC 	43701 	     	      	         	   	L-33G2-P1-B
+:      	   	      	00945	PASS 	 1.761    	OHM	GND
+:      	CC 	43141 	     	      	         	   	L-33G1-P1-B
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	76501 	     	      	         	   	L-33H2-P1-B
+:      	   	      	00945	PASS 	 2.069    	OHM	GND
+:      	CC 	76421 	     	      	         	   	L-33H1-P1-B
+:      	   	      	00945	PASS 	 2.001    	OHM	GND
+:      	CC 	70200 	     	      	         	   	U-3342-P1-11
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	75920 	     	      	         	   	U-3344-P1-11
+:      	   	      	00945	HIGH 	 12.84M   	OHM	GND
+:      	CC 	75540 	     	      	         	   	U-3343-P1-11
+:      	   	      	00945	HIGH 	 290.0K   	OHM	GND
+:      	CC 	67630 	     	      	         	   	U-3341-P1-11
+:      	   	      	00945	HIGH 	 22.07K   	OHM	GND
+:      	CC 	50700 	     	      	         	   	U-3346-P1-11
+:      	   	      	00945	HIGH 	 64.00K   	OHM	GND
+:      	CC 	43210 	     	      	         	   	U-3345-P1-11
+:      	   	      	00945	HIGH 	>15.00M   	OHM	GND
+:      	CC 	50803 	     	      	         	   	U-334A-P1-4
+:      	   	      	00945	PASS 	 1.730    	OHM	GND
+:      	CC 	50801 	     	      	         	   	U-334A-P1-2
+:      	   	      	00945	PASS 	 1.738    	OHM	GND
+:      	CC 	18903 	     	      	         	   	U-3347-P1-4
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	18901 	     	      	         	   	U-3347-P1-2
+:      	   	      	00945	HIGH 	>19.69M   	OHM	GND
+:      	CC 	26241 	     	      	         	   	U-3348-P1-2
+:      	   	      	00945	PASS 	 1.699    	OHM	GND
+:      	CC 	26243 	     	      	         	   	U-3348-P1-4
+:      	   	      	00945	PASS 	 1.687    	OHM	GND
+:      	CC 	50721 	     	      	         	   	U-3349-P1-2
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	50723 	     	      	         	   	U-3349-P1-4
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	38712 	     	      	         	   	Q-3351-P1-Z
+:      	   	      	00945	PASS 	 1.679    	OHM	GND
+:      	CC 	41622 	     	      	         	   	Q-3352-P1-Z
+:      	   	      	00945	PASS 	 1.710    	OHM	GND
+:      	CC 	44302 	     	      	         	   	Q-3353-P1-Z
+:      	   	      	00945	PASS 	 1.714    	OHM	GND
+:      	CC 	44832 	     	      	         	   	Q-3354-P1-Z
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	48922 	     	      	         	   	Q-3355-P1-Z
+:      	   	      	00945	PASS 	 1.728    	OHM	GND
+:      	CC 	49342 	     	      	         	   	Q-3356-P1-Z
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	38705 	     	      	         	   	Q-3351-P1-S
+:      	   	      	00945	PASS 	 1.697    	OHM	GND
+:      	CC 	41615 	     	      	         	   	Q-3352-P1-S
+:      	   	      	00945	PASS 	 1.691    	OHM	GND
+:      	CC 	44245 	     	      	         	   	Q-3353-P1-S
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	44825 	     	      	         	   	Q-3354-P1-S
+:      	   	      	00945	PASS 	 1.777    	OHM	GND
+:      	CC 	48915 	     	      	         	   	Q-3355-P1-S
+:      	   	      	00945	PASS 	 1.658    	OHM	GND
+:      	CC 	49335 	     	      	         	   	Q-3356-P1-S
+:      	   	      	00945	PASS 	 1.703    	OHM	GND
+:      	CC 	38709 	     	      	         	   	Q-3351-P1-W
+:      	   	      	00945	PASS 	 1.666    	OHM	GND
+:      	CC 	41619 	     	      	         	   	Q-3352-P1-W
+:      	   	      	00945	PASS 	 1.647    	OHM	GND
+:      	CC 	44249 	     	      	         	   	Q-3353-P1-W
+:      	   	      	00945	PASS 	 1.663    	OHM	GND
+:      	CC 	44829 	     	      	         	   	Q-3354-P1-W
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	48919 	     	      	         	   	Q-3355-P1-W
+:      	   	      	00945	PASS 	 1.648    	OHM	GND
+:      	CC 	49339 	     	      	         	   	Q-3356-P1-W
+:      	   	      	00945	PASS 	 1.659    	OHM	GND
+:      	CC 	33846 	     	      	         	   	P-3316-P1-67
+:      	   	      	00945	PASS 	 1.916    	OHM	GND
+:      	CC 	29234 	     	      	         	   	L-3313-R1-5
+:      	   	      	00945	PASS 	 1.800    	OHM	GND
+:      	CC 	38612 	     	      	         	   	L-33M1-P1-3
+:      	   	      	00945	PASS 	 1.658    	OHM	GND
+:      	CC 	42642 	     	      	         	   	L-33M2-P1-3
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	68012 	     	      	         	   	L-33M3-P1-3
+:      	   	      	00945	PASS 	 2.211    	OHM	GND
+:      	CC 	68002 	     	      	         	   	L-33M4-P1-3
+:      	   	      	00945	PASS 	 2.002    	OHM	GND
+:      	CC 	68902 	     	      	         	   	L-33M5-P1-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	36942 	     	      	         	   	L-33M6-P1-3
+:      	   	      	00945	HIGH 	 11.15K   	OHM	GND
+:      	CC 	45302 	     	      	         	   	L-33M7-P1-3
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	49902 	     	      	         	   	L-33M8-P1-3
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	72912 	     	      	         	   	L-33M9-P1-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	49242 	     	      	         	   	L-33MA-P1-3
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	28035 	     	      	         	   	1J-233-P1-6
+:      	   	      	00945	PASS 	 1.677    	OHM	GND
+:      	CC 	28135 	     	      	         	   	2J-233-P1-6
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	28235 	     	      	         	   	3J-233-P1-6
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	28531 	     	      	         	   	L-3327-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	68932 	     	      	         	   	L-33E5-P1-3
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	68842 	     	      	         	   	L-33E6-P1-3
+:      	   	      	00945	PASS 	 2.201    	OHM	GND
+:      	CC 	68942 	     	      	         	   	L-33F1-P1-3
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	68912 	     	      	         	   	L-33F2-P1-3
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	43142 	     	      	         	   	L-33G1-P1-C
+:      	   	      	00945	PASS 	 1.677    	OHM	GND
+:      	CC 	43702 	     	      	         	   	L-33G2-P1-C
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	76422 	     	      	         	   	L-33H1-P1-C
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	76502 	     	      	         	   	L-33H2-P1-C
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	33013 	     	      	         	   	P-3313-P1-14
+:      	   	      	00945	PASS 	 1.806    	OHM	GND
+:      	CC 	33131 	     	      	         	   	P-3313-P2-2
+:      	   	      	00945	PASS 	 1.753    	OHM	GND
+:      	CC 	33627 	     	      	         	   	P-3314-P1-128
+:      	   	      	00945	PASS 	 1.858    	OHM	GND
+:      	CC 	36715 	     	      	         	   	P-3319-P1-6
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	36804 	     	      	         	   	P-331A-P1-5
+:      	   	      	00945	PASS 	 1.781    	OHM	GND
+:      	CC 	31024 	     	      	         	   	P-331B-P1-5
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	31144 	     	      	         	   	P-331C-P1-5
+:      	   	      	00945	PASS 	 1.748    	OHM	GND
+:      	CC 	31227 	     	      	         	   	P-331G-P1-8
+:      	   	      	00945	PASS 	 1.723    	OHM	GND
+:      	CC 	05233 	     	      	         	   	U-3311-P1-24
+:      	   	      	00945	PASS 	 1.711    	OHM	GND
+:      	CC 	05409 	     	      	         	   	U-3311-P1-100
+:      	   	      	00945	PASS 	 1.675    	OHM	GND
+:      	CC 	05733 	     	      	         	   	U-3312-P1-34
+:      	   	      	00945	PASS 	 1.792    	OHM	GND
+:      	CC 	05735 	     	      	         	   	U-3312-P1-36
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	67631 	     	      	         	   	U-3341-P1-12
+:      	   	      	00945	PASS 	 1.724    	OHM	GND
+:      	CC 	70201 	     	      	         	   	U-3342-P1-12
+:      	   	      	00945	PASS 	 1.699    	OHM	GND
+:      	CC 	75541 	     	      	         	   	U-3343-P1-12
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	75921 	     	      	         	   	U-3344-P1-12
+:      	   	      	00945	PASS 	 1.778    	OHM	GND
+:      	CC 	43211 	     	      	         	   	U-3345-P1-12
+:      	   	      	00945	PASS 	 1.710    	OHM	GND
+:      	CC 	50701 	     	      	         	   	U-3346-P1-12
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	38823 	     	      	         	   	U-255-P1-D
+:      	   	      	00945	PASS 	 1.748    	OHM	GND
+:      	CC 	38820 	     	      	         	   	U-255-P1-A
+:      	   	      	00945	PASS 	 1.830    	OHM	GND
+:      	CC 	51311 	     	      	         	   	L-33A7-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	51321 	     	      	         	   	L-33A8-P1-B
+:      	   	      	00945	HIGH 	 2.099M   	OHM	GND
+:      	CC 	43041 	     	      	         	   	L-33A2-P1-B
+:      	   	      	00945	PASS 	 1.705    	OHM	GND
+:      	CC 	43101 	     	      	         	   	L-33A4-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	43531 	     	      	         	   	L-33A1-P1-B
+:      	   	      	00945	PASS 	 1.786    	OHM	GND
+:      	CC 	43541 	     	      	         	   	L-33A3-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	47141 	     	      	         	   	L-33A9-P1-B
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	47201 	     	      	         	   	L-33AB-P1-B
+:      	   	      	00945	PASS 	 1.723    	OHM	GND
+:      	CC 	47211 	     	      	         	   	L-33AD-P1-B
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	46141 	     	      	         	   	L-33B9-P1-B
+:      	   	      	00945	PASS 	 1.778    	OHM	GND
+:      	CC 	46041 	     	      	         	   	L-33AA-P1-B
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	46101 	     	      	         	   	L-33AC-P1-B
+:      	   	      	00945	PASS 	 1.726    	OHM	GND
+:      	CC 	46111 	     	      	         	   	L-33AE-P1-B
+:      	   	      	00945	PASS 	 1.669    	OHM	GND
+:      	CC 	48331 	     	      	         	   	L-33BA-P1-B
+:      	   	      	00945	PASS 	 1.703    	OHM	GND
+:      	CC 	72001 	     	      	         	   	L-33AF-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	72011 	     	      	         	   	L-33AG-P1-B
+:      	   	      	00945	PASS 	 1.631    	OHM	GND
+:      	CC 	43111 	     	      	         	   	L-33A6-P1-B
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	43601 	     	      	         	   	L-33A5-P1-B
+:      	   	      	00945	PASS 	 1.758    	OHM	GND
+:      	CC 	40713 	     	      	         	   	L-33B1-P1-D
+:      	   	      	00945	PASS 	 1.628    	OHM	GND
+:      	CC 	10213 	     	      	         	   	L-33B6-P1-D
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	75003 	     	      	         	   	L-33BD-P1-D
+:      	   	      	00945	PASS 	 1.837    	OHM	GND
+:      	CC 	75013 	     	      	         	   	L-33BE-P1-D
+:      	   	      	00945	PASS 	 1.859    	OHM	GND
+:      	CC 	76123 	     	      	         	   	L-33BF-P1-D
+:      	   	      	00945	PASS 	 2.034    	OHM	GND
+:      	CC 	51513 	     	      	         	   	L-33B8-P1-D
+:      	   	      	00945	PASS 	 1.880    	OHM	GND
+:      	CC 	53123 	     	      	         	   	L-33B7-P1-D
+:      	   	      	00945	PASS 	 1.787    	OHM	GND
+:      	CC 	39643 	     	      	         	   	L-33B3-P1-D
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	40333 	     	      	         	   	L-33B4-P1-D
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	41333 	     	      	         	   	L-33B5-P1-D
+:      	   	      	00945	PASS 	 1.726    	OHM	GND
+:      	CC 	40723 	     	      	         	   	L-33B2-P1-D
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	40334 	     	      	         	   	L-33B4-P1-E
+:      	   	      	00945	PASS 	 1.657    	OHM	GND
+:      	CC 	40714 	     	      	         	   	L-33B1-P1-E
+:      	   	      	00945	PASS 	 1.667    	OHM	GND
+:      	CC 	40724 	     	      	         	   	L-33B2-P1-E
+:      	   	      	00945	PASS 	 1.690    	OHM	GND
+:      	CC 	39644 	     	      	         	   	L-33B3-P1-E
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	10214 	     	      	         	   	L-33B6-P1-E
+:      	   	      	00945	PASS 	 1.630    	OHM	GND
+:      	CC 	75004 	     	      	         	   	L-33BD-P1-E
+:      	   	      	00945	PASS 	 1.673    	OHM	GND
+:      	CC 	75014 	     	      	         	   	L-33BE-P1-E
+:      	   	      	00945	PASS 	 1.630    	OHM	GND
+:      	CC 	76124 	     	      	         	   	L-33BF-P1-E
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	53124 	     	      	         	   	L-33B7-P1-E
+:      	   	      	00945	PASS 	 1.684    	OHM	GND
+:      	CC 	51514 	     	      	         	   	L-33B8-P1-E
+:      	   	      	00945	PASS 	 1.695    	OHM	GND
+:      	CC 	43532 	     	      	         	   	L-33A1-P1-C
+:      	   	      	00945	PASS 	 1.758    	OHM	GND
+:      	CC 	43542 	     	      	         	   	L-33A3-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	43602 	     	      	         	   	L-33A5-P1-C
+:      	   	      	00945	PASS 	 1.743    	OHM	GND
+:      	CC 	43042 	     	      	         	   	L-33A2-P1-C
+:      	   	      	00945	PASS 	 1.704    	OHM	GND
+:      	CC 	43102 	     	      	         	   	L-33A4-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	43112 	     	      	         	   	L-33A6-P1-C
+:      	   	      	00945	PASS 	 1.704    	OHM	GND
+:      	CC 	51312 	     	      	         	   	L-33A7-P1-C
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	51322 	     	      	         	   	L-33A8-P1-C
+:      	   	      	00945	HIGH 	>16.54M   	OHM	GND
+:      	CC 	72002 	     	      	         	   	L-33AF-P1-C
+:      	   	      	00945	HIGH 	 24.50K   	OHM	GND
+:      	CC 	72012 	     	      	         	   	L-33AG-P1-C
+:      	   	      	00945	HIGH 	 386.5K   	OHM	GND
+:      	CC 	47142 	     	      	         	   	L-33A9-P1-C
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	47202 	     	      	         	   	L-33AB-P1-C
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	47212 	     	      	         	   	L-33AD-P1-C
+:      	   	      	00945	PASS 	 1.747    	OHM	GND
+:      	CC 	46142 	     	      	         	   	L-33B9-P1-C
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	46042 	     	      	         	   	L-33AA-P1-C
+:      	   	      	00945	PASS 	 1.716    	OHM	GND
+:      	CC 	46102 	     	      	         	   	L-33AC-P1-C
+:      	   	      	00945	PASS 	 1.685    	OHM	GND
+:      	CC 	46112 	     	      	         	   	L-33AE-P1-C
+:      	   	      	00945	PASS 	 1.632    	OHM	GND
+:      	CC 	48332 	     	      	         	   	L-33BA-P1-C
+:      	   	      	00945	PASS 	 1.696    	OHM	GND
+:      	CC 	41334 	     	      	         	   	L-33B5-P1-E
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	21148 	     	      	         	   	1U-343-R1-59
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	21149 	     	      	         	   	1U-343-R1-60
+:      	   	      	00945	HIGH 	 342.7K   	OHM	GND
+:      	CC 	21204 	     	      	         	   	1U-343-R1-65
+:      	   	      	00945	HIGH 	 3.225M   	OHM	GND
+:      	CC 	23438 	     	      	         	   	2U-343-R1-59
+:      	   	      	00945	HIGH 	 757.5K   	OHM	GND
+:      	CC 	23439 	     	      	         	   	2U-343-R1-60
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	23444 	     	      	         	   	2U-343-R1-65
+:      	   	      	00945	HIGH 	 845.4K   	OHM	GND
+:      	CC 	21928 	     	      	         	   	1U-345-R1-59
+:      	   	      	00945	PASS 	 1.710    	OHM	GND
+:      	CC 	21930 	     	      	         	   	1U-345-R1-61
+:      	   	      	00945	PASS 	 1.934    	OHM	GND
+:      	CC 	22838 	     	      	         	   	2U-345-R1-59
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	22840 	     	      	         	   	2U-345-R1-61
+:      	   	      	00945	PASS 	 1.863    	OHM	GND
+:      	CC 	08710 	     	      	         	   	1U-341-P1-C-7
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	08711 	     	      	         	   	1U-341-P1-C-8
+:      	   	      	00945	PASS 	 1.824    	OHM	GND
+:      	CC 	01801 	     	      	         	   	S-341-P4-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	01804 	     	      	         	   	S-341-P4-E
+:      	   	      	00945	HIGH 	 3.167M   	OHM	GND
+:      	CC 	23320 	     	      	         	   	2U-341-P1-C-7
+:      	   	      	00945	PASS 	 1.817    	OHM	GND
+:      	CC 	23321 	     	      	         	   	2U-341-P1-C-8
+:      	   	      	00945	PASS 	 2.047    	OHM	GND
+:      	CC 	16631 	     	      	         	   	S-342-P4-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	16634 	     	      	         	   	S-342-P4-E
+:      	   	      	00945	HIGH 	 6.504M   	OHM	GND
+:      	CC 	13001 	     	      	         	   	1U-34B-P1-2
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	13008 	     	      	         	   	1U-34B-P1-9
+:      	   	      	00945	PASS 	 1.684    	OHM	GND
+:      	CC 	14131 	     	      	         	   	2U-34B-P1-2
+:      	   	      	00945	PASS 	 1.780    	OHM	GND
+:      	CC 	14138 	     	      	         	   	2U-34B-P1-9
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	16511 	     	      	         	   	3U-34B-P1-2
+:      	   	      	00945	PASS 	 1.733    	OHM	GND
+:      	CC 	16518 	     	      	         	   	3U-34B-P1-9
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	00011 	     	      	         	   	1P-341-P1-B
+:      	   	      	00945	PASS 	 1.607    	OHM	GND
+:      	CC 	00012 	     	      	         	   	1P-341-P1-C
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	04232 	     	      	         	   	D-349-P1-C
+:      	   	      	00945	PASS 	 1.732    	OHM	GND
+:      	CC 	41426 	     	      	         	   	D-34G-P1-G
+:      	   	      	00945	PASS 	 1.671    	OHM	GND
+:      	CC 	34129 	     	      	         	   	P-3317-P1-20
+:      	   	      	00945	PASS 	 1.644    	OHM	GND
+:      	CC 	34131 	     	      	         	   	P-3317-P1-22
+:      	   	      	00945	PASS 	 1.766    	OHM	GND
+:      	CC 	34133 	     	      	         	   	P-3317-P1-24
+:      	   	      	00945	PASS 	 1.784    	OHM	GND
+:      	CC 	00027 	     	      	         	   	1U-30A-P1-H
+:      	   	      	00945	PASS 	 1.649    	OHM	GND
+:      	CC 	00033 	     	      	         	   	1U-30A-P1-P
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	01811 	     	      	         	   	1P-342-P1-B
+:      	   	      	00945	PASS 	 1.788    	OHM	GND
+:      	CC 	04801 	     	      	         	   	2P-342-P1-B
+:      	   	      	00945	PASS 	 1.724    	OHM	GND
+:      	CC 	38206 	     	      	         	   	D-34C-P1-G
+:      	   	      	00945	PASS 	 1.687    	OHM	GND
+:      	CC 	27533 	     	      	         	   	2U-30A-P1-P
+:      	   	      	00945	PASS 	 1.732    	OHM	GND
+:      	CC 	27527 	     	      	         	   	2U-30A-P1-H
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	00142 	     	      	         	   	D-34B-P1-C
+:      	   	      	00945	PASS 	 1.702    	OHM	GND
+:      	CC 	04611 	     	      	         	   	2P-341-P1-B
+:      	   	      	00945	PASS 	 1.654    	OHM	GND
+:      	CC 	04612 	     	      	         	   	2P-341-P1-C
+:      	   	      	00945	PASS 	 1.699    	OHM	GND
+:      	CC 	38126 	     	      	         	   	D-34A-P1-G
+:      	   	      	00945	PASS 	 1.646    	OHM	GND
+:      	CC 	41506 	     	      	         	   	D-34H-P1-G
+:      	   	      	00945	PASS 	 1.678    	OHM	GND
+:      	CC 	22703 	     	      	         	   	3U-30A-P1-P
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	22647 	     	      	         	   	3U-30A-P1-H
+:      	   	      	00945	PASS 	 1.698    	OHM	GND
+:      	CC 	30428 	     	      	         	   	D-34E-P1-9
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	30515 	     	      	         	   	D-34E-P1-46
+:      	   	      	00945	PASS 	 1.678    	OHM	GND
+:      	CC 	25844 	     	      	         	   	U-34A-P1-C-15
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	25842 	     	      	         	   	U-34A-P1-C-13
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	25713 	     	      	         	   	U-349-P1-C-13
+:      	   	      	00945	PASS 	 1.790    	OHM	GND
+:      	CC 	25715 	     	      	         	   	U-349-P1-C-15
+:      	   	      	00945	PASS 	 1.760    	OHM	GND
+:      	CC 	21520 	     	      	         	   	U-34F-P2-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	26301 	     	      	         	   	U-34E-P2-B
+:      	   	      	00945	HIGH 	 16.59M   	OHM	GND
+:      	CC 	14111 	     	      	         	   	1U-34D-P4-B
+:      	   	      	00945	HIGH 	 11.29M   	OHM	GND
+:      	CC 	14114 	     	      	         	   	1U-34D-P4-E
+:      	   	      	00945	HIGH 	 5.484M   	OHM	GND
+:      	CC 	15431 	     	      	         	   	2U-34D-P4-B
+:      	   	      	00945	HIGH 	 136.1K   	OHM	GND
+:      	CC 	15434 	     	      	         	   	2U-34D-P4-E
+:      	   	      	00945	HIGH 	 483.0K   	OHM	GND
+:      	CC 	15501 	     	      	         	   	3U-34D-P4-B
+:      	   	      	00945	HIGH 	>10.00M   	OHM	GND
+:      	CC 	15504 	     	      	         	   	3U-34D-P4-E
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	15511 	     	      	         	   	4U-34D-P4-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	15514 	     	      	         	   	4U-34D-P4-E
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	17511 	     	      	         	   	5U-34D-P4-B
+:      	   	      	00945	HIGH 	>15.02M   	OHM	GND
+:      	CC 	17514 	     	      	         	   	5U-34D-P4-E
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	17521 	     	      	         	   	6U-34D-P4-B
+:      	   	      	00945	HIGH 	>15.37M   	OHM	GND
+:      	CC 	17524 	     	      	         	   	6U-34D-P4-E
+:      	   	      	00945	HIGH 	>16.21M   	OHM	GND
+:      	CC 	17531 	     	      	         	   	7U-34D-P4-B
+:      	   	      	00945	HIGH 	>10.04M   	OHM	GND
+:      	CC 	17534 	     	      	         	   	7U-34D-P4-E
+:      	   	      	00945	HIGH 	 2.625M   	OHM	GND
+:      	CC 	16621 	     	      	         	   	8U-34D-P4-B
+:      	   	      	00945	HIGH 	>16.68M   	OHM	GND
+:      	CC 	16624 	     	      	         	   	8U-34D-P4-E
+:      	   	      	00945	HIGH 	>15.20M   	OHM	GND
+:      	CC 	50223 	     	      	         	   	D-351-P1-D
+:      	   	      	00945	PASS 	 1.664    	OHM	GND
+:      	CC 	34235 	     	      	         	   	P-3317-P1-76
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	50321 	     	      	         	   	S-351-P1-B
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	50321 	     	      	         	   	S-351-P1-B
+:      	   	      	00945	PASS 	 1.700    	OHM	GND
+:      	CC 	34233 	     	      	         	   	P-3317-P1-74
+:      	   	      	00945	PASS 	 1.752    	OHM	GND
+:      	CC 	41342 	     	      	         	   	S-353-P1-3
+:      	   	      	00945	PASS 	 1.691    	OHM	GND
+:      	CC 	41343 	     	      	         	   	S-353-P1-4
+:      	   	      	00945	PASS 	 1.683    	OHM	GND
+:      	CC 	76622 	     	      	         	   	S-354-P1-3
+:      	   	      	00945	PASS 	 1.703    	OHM	GND
+:      	CC 	76623 	     	      	         	   	S-354-P1-4
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	33302 	     	      	         	   	P-3312-P1-33
+:      	   	      	00945	PASS 	 1.784    	OHM	GND
+:      	CC 	29604 	     	      	         	   	U-35F-P1-E
+:      	   	      	00945	PASS 	 1.758    	OHM	GND
+:      	CC 	29844 	     	      	         	   	U-35G-P1-E
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	28444 	     	      	         	   	U-35H-P1-E
+:      	   	      	00945	PASS 	 1.739    	OHM	GND
+:      	CC 	66941 	     	      	         	   	D-361-P1-2
+:      	   	      	00945	PASS 	 2.458    	OHM	GND
+:      	CC 	66931 	     	      	         	   	D-363-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	67912 	     	      	         	   	M-366-P1-3
+:      	   	      	00945	PASS 	 1.754    	OHM	GND
+:      	CC 	33636 	     	      	         	   	P-3315-P1-7
+:      	   	      	00945	PASS 	 1.802    	OHM	GND
+:      	CC 	70341 	     	      	         	   	D-362-P1-2
+:      	   	      	00945	PASS 	 2.397    	OHM	GND
+:      	CC 	70401 	     	      	         	   	D-364-P1-2
+:      	   	      	00945	PASS 	 2.401    	OHM	GND
+:      	CC 	70422 	     	      	         	   	M-367-P1-3
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	33645 	     	      	         	   	P-3315-P1-16
+:      	   	      	00945	PASS 	 1.706    	OHM	GND
+:      	CC 	60315 	     	      	         	   	M-365-P1-6
+:      	   	      	00945	PASS 	 1.938    	OHM	GND
+:      	CC 	71314 	     	      	         	   	M-381-P1-E
+:      	   	      	00945	PASS 	 1.680    	OHM	GND
+:      	CC 	71313 	     	      	         	   	M-381-P1-D
+:      	   	      	00945	PASS 	 1.694    	OHM	GND
+:      	CC 	72414 	     	      	         	   	M-382-P1-E
+:      	   	      	00945	PASS 	 1.629    	OHM	GND
+:      	CC 	71110 	     	      	         	   	D-383-P1-1
+:      	   	      	00945	PASS 	 1.788    	OHM	GND
+:      	CC 	71112 	     	      	         	   	D-383-P1-3
+:      	   	      	00945	PASS 	 1.754    	OHM	GND
+:      	CC 	71132 	     	      	         	   	D-382-P1-3
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	71130 	     	      	         	   	D-382-P1-1
+:      	   	      	00945	PASS 	 1.766    	OHM	GND
+:      	CC 	76630 	     	      	         	   	D-381-P1-1
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	76632 	     	      	         	   	D-381-P1-3
+:      	   	      	00945	HIGH 	>15.01M   	OHM	GND
+:      	CC 	76701 	     	      	         	   	S-383-P1-B
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	12212 	     	      	         	   	E-381-P1-3
+:      	   	      	00945	PASS 	 1.616    	OHM	GND
+:      	CC 	12210 	     	      	         	   	E-381-P1-1
+:      	   	      	00945	PASS 	 1.653    	OHM	GND
+:      	CC 	71212 	     	      	         	   	E-382-P1-3
+:      	   	      	00945	PASS 	 1.654    	OHM	GND
+:      	CC 	71210 	     	      	         	   	E-382-P1-1
+:      	   	      	00945	PASS 	 1.681    	OHM	GND
+:      	CC 	72432 	     	      	         	   	T-381-P2-C
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	72520 	     	      	         	   	T-381-P1-A
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	71321 	     	      	         	   	S-381-P1-B
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	13614 	     	      	         	   	U-424-P3-A-C5
+:      	   	      	00945	PASS 	 1.738    	OHM	GND
+:      	CC 	13704 	     	      	         	   	U-424-P3-B-C5
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	22632 	     	      	         	   	U-422-P2-A-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03114 	     	      	         	   	U-423-P3-B-C5
+:      	   	      	00945	HIGH 	 60.47K   	OHM	GND
+:      	CC 	10435 	     	      	         	   	U-421-P2-B-3
+:      	   	      	00945	HIGH 	 3.953M   	OHM	GND
+:      	CC 	66024 	     	      	         	   	U-426-P3-A-C5
+:      	   	      	00945	PASS 	 1.729    	OHM	GND
+:      	CC 	10702 	     	      	         	   	U-421-P1-A-3
+:      	   	      	00945	PASS 	 1.678    	OHM	GND
+:      	CC 	22635 	     	      	         	   	U-422-P2-B-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	66114 	     	      	         	   	U-426-P3-B-C5
+:      	   	      	00945	PASS 	 1.843    	OHM	GND
+:      	CC 	10432 	     	      	         	   	U-421-P2-A-3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	63024 	     	      	         	   	U-425-P3-A-C5
+:      	   	      	00945	PASS 	 1.882    	OHM	GND
+:      	CC 	03024 	     	      	         	   	U-423-P3-A-C5
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	63114 	     	      	         	   	U-425-P3-B-C5
+:      	   	      	00945	PASS 	 1.913    	OHM	GND
+:      	CC 	27742 	     	      	         	   	U-422-P1-A-3
+:      	   	      	00945	PASS 	 1.722    	OHM	GND
+:      	CC 	17042 	     	      	         	   	U-42H-P1-43
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	03402 	     	      	         	   	U-42F-P1-43
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	00343 	     	      	         	   	U-42E-P1-54
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	14343 	     	      	         	   	U-42G-P1-54
+:      	   	      	00945	PASS 	 1.708    	OHM	GND
+:      	CC 	40533 	     	      	         	   	U-42D-P1-54
+:      	   	      	00945	PASS 	 1.688    	OHM	GND
+:      	CC 	00332 	     	      	         	   	U-42E-P1-43
+:      	   	      	00945	PASS 	 1.728    	OHM	GND
+:      	CC 	17103 	     	      	         	   	U-42H-P1-54
+:      	   	      	00945	PASS 	 1.737    	OHM	GND
+:      	CC 	39502 	     	      	         	   	U-42C-P1-43
+:      	   	      	00945	PASS 	 1.758    	OHM	GND
+:      	CC 	39103 	     	      	         	   	U-42A-P1-54
+:      	   	      	00945	PASS 	 1.715    	OHM	GND
+:      	CC 	39042 	     	      	         	   	U-42A-P1-43
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	40522 	     	      	         	   	U-42D-P1-43
+:      	   	      	00945	PASS 	 1.715    	OHM	GND
+:      	CC 	39513 	     	      	         	   	U-42C-P1-54
+:      	   	      	00945	PASS 	 1.761    	OHM	GND
+:      	CC 	42042 	     	      	         	   	U-42B-P1-43
+:      	   	      	00945	PASS 	 1.701    	OHM	GND
+:      	CC 	14332 	     	      	         	   	U-42G-P1-43
+:      	   	      	00945	PASS 	 1.929    	OHM	GND
+:      	CC 	03413 	     	      	         	   	U-42F-P1-54
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	42103 	     	      	         	   	U-42B-P1-54
+:      	   	      	00945	PASS 	 1.689    	OHM	GND
+:      	CC 	47323 	     	      	         	   	U-42P-P1-54
+:      	   	      	00945	PASS 	 1.741    	OHM	GND
+:      	CC 	19042 	     	      	         	   	U-42K-P1-43
+:      	   	      	00945	PASS 	 1.746    	OHM	GND
+:      	CC 	46522 	     	      	         	   	U-42Q-P1-43
+:      	   	      	00945	PASS 	 1.697    	OHM	GND
+:      	CC 	48443 	     	      	         	   	U-42R-P1-54
+:      	   	      	00945	PASS 	 1.762    	OHM	GND
+:      	CC 	51103 	     	      	         	   	U-42N-P1-54
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	48432 	     	      	         	   	U-42R-P1-43
+:      	   	      	00945	PASS 	 1.776    	OHM	GND
+:      	CC 	19103 	     	      	         	   	U-42K-P1-54
+:      	   	      	00945	PASS 	 1.799    	OHM	GND
+:      	CC 	63723 	     	      	         	   	U-42M-P1-54
+:      	   	      	00945	PASS 	 1.912    	OHM	GND
+:      	CC 	51042 	     	      	         	   	U-42N-P1-43
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	63712 	     	      	         	   	U-42M-P1-43
+:      	   	      	00945	PASS 	 1.924    	OHM	GND
+:      	CC 	47312 	     	      	         	   	U-42P-P1-43
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	46533 	     	      	         	   	U-42Q-P1-54
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	61333 	     	      	         	   	U-42L-P1-54
+:      	   	      	00945	PASS 	 1.780    	OHM	GND
+:      	CC 	61322 	     	      	         	   	U-42L-P1-43
+:      	   	      	00945	PASS 	 1.872    	OHM	GND
+:      	CC 	03025 	     	      	         	   	U-423-P3-A-C6
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03115 	     	      	         	   	U-423-P3-B-C6
+:      	   	      	00945	HIGH 	 31.18K   	OHM	GND
+:      	CC 	13705 	     	      	         	   	U-424-P3-B-C6
+:      	   	      	00945	PASS 	 1.762    	OHM	GND
+:      	CC 	13615 	     	      	         	   	U-424-P3-A-C6
+:      	   	      	00945	PASS 	 1.741    	OHM	GND
+:      	CC 	63025 	     	      	         	   	U-425-P3-A-C6
+:      	   	      	00945	PASS 	 1.887    	OHM	GND
+:      	CC 	63115 	     	      	         	   	U-425-P3-B-C6
+:      	   	      	00945	PASS 	 1.919    	OHM	GND
+:      	CC 	66115 	     	      	         	   	U-426-P3-B-C6
+:      	   	      	00945	PASS 	 1.866    	OHM	GND
+:      	CC 	66025 	     	      	         	   	U-426-P3-A-C6
+:      	   	      	00945	PASS 	 1.815    	OHM	GND
+:      	CC 	34136 	     	      	         	   	P-3317-P1-27
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	34138 	     	      	         	   	P-3317-P1-29
+:      	   	      	00945	PASS 	 1.736    	OHM	GND
+:      	CC 	34246 	     	      	         	   	P-3317-P2-7
+:      	   	      	00945	PASS 	 1.744    	OHM	GND
+:      	CC 	34248 	     	      	         	   	P-3317-P2-9
+:      	   	      	00945	PASS 	 1.705    	OHM	GND
+:      	CC 	03002 	     	      	         	   	U-423-P3-A-A3
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03003 	     	      	         	   	U-423-P3-A-A4
+:      	   	      	00945	HIGH 	 518.0K   	OHM	GND
+:      	CC 	03006 	     	      	         	   	U-423-P3-A-A7
+:      	   	      	00945	HIGH 	 4.998M   	OHM	GND
+:      	CC 	03010 	     	      	         	   	U-423-P3-A-B1
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03011 	     	      	         	   	U-423-P3-A-B2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03012 	     	      	         	   	U-423-P3-A-B3
+:      	   	      	00945	HIGH 	 20.91K   	OHM	GND
+:      	CC 	03013 	     	      	         	   	U-423-P3-A-B4
+:      	   	      	00945	HIGH 	 756.6K   	OHM	GND
+:      	CC 	03014 	     	      	         	   	U-423-P3-A-B5
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	03015 	     	      	         	   	U-423-P3-A-B6
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	13542 	     	      	         	   	U-424-P3-A-A3
+:      	   	      	00945	PASS 	 1.721    	OHM	GND
+:      	CC 	13543 	     	      	         	   	U-424-P3-A-A4
+:      	   	      	00945	PASS 	 1.698    	OHM	GND
+:      	CC 	13546 	     	      	         	   	U-424-P3-A-A7
+:      	   	      	00945	PASS 	 1.693    	OHM	GND
+:      	CC 	13548 	     	      	         	   	U-424-P3-A-A9
+:      	   	      	00945	PASS 	 1.687    	OHM	GND
+:      	CC 	13549 	     	      	         	   	U-424-P3-A-A10
+:      	   	      	00945	PASS 	 1.664    	OHM	GND
+:      	CC 	13602 	     	      	         	   	U-424-P3-A-B3
+:      	   	      	00945	PASS 	 1.761    	OHM	GND
+:      	CC 	13603 	     	      	         	   	U-424-P3-A-B4
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	13604 	     	      	         	   	U-424-P3-A-B5
+:      	   	      	00945	PASS 	 1.738    	OHM	GND
+:      	CC 	13605 	     	      	         	   	U-424-P3-A-B6
+:      	   	      	00945	PASS 	 1.718    	OHM	GND
+:      	CC 	63002 	     	      	         	   	U-425-P3-A-A3
+:      	   	      	00945	PASS 	 1.760    	OHM	GND
+:      	CC 	63003 	     	      	         	   	U-425-P3-A-A4
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	63006 	     	      	         	   	U-425-P3-A-A7
+:      	   	      	00945	PASS 	 1.701    	OHM	GND
+:      	CC 	63007 	     	      	         	   	U-425-P3-A-A8
+:      	   	      	00945	PASS 	 1.702    	OHM	GND
+:      	CC 	63012 	     	      	         	   	U-425-P3-A-B3
+:      	   	      	00945	PASS 	 1.750    	OHM	GND
+:      	CC 	63013 	     	      	         	   	U-425-P3-A-B4
+:      	   	      	00945	PASS 	 1.751    	OHM	GND
+:      	CC 	63014 	     	      	         	   	U-425-P3-A-B5
+:      	   	      	00945	PASS 	 1.744    	OHM	GND
+:      	CC 	63015 	     	      	         	   	U-425-P3-A-B6
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	66002 	     	      	         	   	U-426-P3-A-A3
+:      	   	      	00945	PASS 	 1.776    	OHM	GND
+:      	CC 	66003 	     	      	         	   	U-426-P3-A-A4
+:      	   	      	00945	PASS 	 1.786    	OHM	GND
+:      	CC 	66006 	     	      	         	   	U-426-P3-A-A7
+:      	   	      	00945	PASS 	 1.745    	OHM	GND
+:      	CC 	66007 	     	      	         	   	U-426-P3-A-A8
+:      	   	      	00945	PASS 	 1.763    	OHM	GND
+:      	CC 	66009 	     	      	         	   	U-426-P3-A-A10
+:      	   	      	00945	PASS 	 1.732    	OHM	GND
+:      	CC 	66011 	     	      	         	   	U-426-P3-A-B2
+:      	   	      	00945	PASS 	 1.723    	OHM	GND
+:      	CC 	66013 	     	      	         	   	U-426-P3-A-B4
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	66014 	     	      	         	   	U-426-P3-A-B5
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	66015 	     	      	         	   	U-426-P3-A-B6
+:      	   	      	00945	PASS 	 1.762    	OHM	GND
+:      	CC 	18322 	     	      	         	   	U-42J-P1-43
+:      	   	      	00945	PASS 	 1.935    	OHM	GND
+:      	CC 	18333 	     	      	         	   	U-42J-P1-54
+:      	   	      	00945	PASS 	 1.720    	OHM	GND
+:      	CC 	24243 	     	      	         	   	U-451-P1-C-E8
+:      	   	      	00945	PASS 	 1.892    	OHM	GND
+:      	CC 	24236 	     	      	         	   	U-451-P1-C-E1
+:      	   	      	00945	PASS 	 1.674    	OHM	GND
+:      	CC 	24206 	     	      	         	   	U-451-P1-C-A9
+:      	   	      	00945	PASS 	 1.693    	OHM	GND
+:      	CC 	13312 	     	      	         	   	U-463-P1-C
+:      	   	      	00945	PASS 	 1.723    	OHM	GND
+:      	CC 	28833 	     	      	         	   	U-461-P1-D
+:      	   	      	00945	PASS 	 1.688    	OHM	GND
+:      	CC 	24443 	     	      	         	   	U-462-P1-C-P4
+:      	   	      	00945	PASS 	 1.810    	OHM	GND
+:      	CC 	24444 	     	      	         	   	U-462-P1-C-P5
+:      	   	      	00945	PASS 	 1.703    	OHM	GND
+:      	CC 	29133 	     	      	         	   	P-461-P1-24
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	29134 	     	      	         	   	P-461-P1-25
+:      	   	      	00945	HIGH 	>19.51M   	OHM	GND
+:      	CC 	29223 	     	      	         	   	P-462-P1-24
+:      	   	      	00945	HIGH 	 3.735M   	OHM	GND
+:      	CC 	29224 	     	      	         	   	P-462-P1-25
+:      	   	      	00945	HIGH 	 3.604M   	OHM	GND
+:      	CC 	52325 	     	      	         	   	D-473-P1-6
+:      	   	      	00945	PASS 	 1.665    	OHM	GND
+:      	CC 	52337 	     	      	         	   	D-474-P1-8
+:      	   	      	00945	PASS 	 1.675    	OHM	GND
+:      	CC 	52049 	     	      	         	   	M-475-P1-10
+:      	   	      	00945	PASS 	 1.658    	OHM	GND
+:      	CC 	52043 	     	      	         	   	M-475-P1-4
+:      	   	      	00945	HIGH 	 8.255    	OHM	GND
+:      	CC 	52040 	     	      	         	   	M-475-P1-1
+:      	   	      	00945	HIGH 	 8.267    	OHM	GND
+:      	CC 	52236 	     	      	         	   	D-471-P1-7
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	52306 	     	      	         	   	D-472-P1-7
+:      	   	      	00945	PASS 	 1.671    	OHM	GND
+:      	CC 	52427 	     	      	         	   	M-472-P1-H
+:      	   	      	00945	PASS 	 7.723    	OHM	GND
+:      	CC 	52424 	     	      	         	   	M-472-P1-E
+:      	   	      	00945	PASS 	 1.663    	OHM	GND
+:      	CC 	52401 	     	      	         	   	M-471-P1-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	52404 	     	      	         	   	M-471-P1-5
+:      	   	      	00945	HIGH 	 153.0K   	OHM	GND
+:      	CC 	52502 	     	      	         	   	M-474-P1-C
+:      	   	      	00945	PASS 	 1.692    	OHM	GND
+:      	CC 	52501 	     	      	         	   	M-474-P1-B
+:      	   	      	00945	PASS 	 1.769    	OHM	GND
+:      	CC 	52442 	     	      	         	   	M-473-P1-3
+:      	   	      	00945	PASS 	 1.734    	OHM	GND
+:      	CC 	52444 	     	      	         	   	M-473-P1-5
+:      	   	      	00945	PASS 	 2.298    	OHM	GND
+:      	CC 	20832 	     	      	         	   	U-471-P4-N
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	20844 	     	      	         	   	U-471-P4-*B
+:      	   	      	00945	HIGH 	>15.04M   	OHM	GND
+:      	CC 	20845 	     	      	         	   	U-471-P4-*C
+:      	   	      	00945	HIGH 	>15.00M   	OHM	GND
+:      	CC 	20904 	     	      	         	   	U-471-P4-*M
+:      	   	      	00945	HIGH 	 50.92K   	OHM	GND
+:      	CC 	20830 	     	      	         	   	U-471-P4-L
+:      	   	      	00945	PASS 	 1.740    	OHM	GND
+:      	CC 	20843 	     	      	         	   	U-471-P4-*A
+:      	   	      	00945	PASS 	 1.727    	OHM	GND
+:      	CC 	20902 	     	      	         	   	U-471-P4-*J
+:      	   	      	00945	PASS 	 1.731    	OHM	GND
+:      	CC 	20911 	     	      	         	   	U-471-P4-*U
+:      	   	      	00945	PASS 	 1.688    	OHM	GND
+:      	CC 	74520 	     	      	         	   	U-491-P1-C-2
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	74521 	     	      	         	   	U-491-P1-C-3
+:      	   	      	00945	HIGH 	 417.6K   	OHM	GND
+:      	CC 	24829 	     	      	         	   	U-521-P1-C-56
+:      	   	      	00945	PASS 	 1.654    	OHM	GND
+:      	CC 	24832 	     	      	         	   	U-521-P1-C-59
+:      	   	      	00945	PASS 	 1.749    	OHM	GND
+:      	CC 	24836 	     	      	         	   	U-521-P1-C-C3
+:      	   	      	00945	PASS 	 1.795    	OHM	GND
+:      	CC 	24831 	     	      	         	   	U-521-P1-C-58
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	24519 	     	      	         	   	U-521-P1-C-F3
+:      	   	      	00945	PASS 	 1.617    	OHM	GND
+:      	CC 	38634 	     	      	         	   	P-52A1-R1-5
+:      	   	      	00945	PASS 	 1.759    	OHM	GND
+:      	CC 	42704 	     	      	         	   	P-52B1-R1-5
+:      	   	      	00945	PASS 	 1.717    	OHM	GND
+:      	CC 	76944 	     	      	         	   	P-52C1-R1-5
+:      	   	      	00945	PASS 	 1.758    	OHM	GND
+:      	CC 	49314 	     	      	         	   	P-52D1-R1-5
+:      	   	      	00945	PASS 	 1.725    	OHM	GND
+:      	CC 	37242 	     	      	         	   	U-761-P2-N
+:      	   	      	00945	PASS 	 1.707    	OHM	GND
+:      	CC 	37342 	     	      	         	   	U-761-P4-N
+:      	   	      	00945	PASS 	 1.767    	OHM	GND
+:      	CC 	37349 	     	      	         	   	U-761-P4-W
+:      	   	      	00945	PASS 	 1.712    	OHM	GND
+:      	CC 	37237 	     	      	         	   	U-761-P2-H
+:      	   	      	00945	PASS 	 1.667    	OHM	GND
+:      	CC 	37129 	     	      	         	   	U-761-P1-K
+:      	   	      	00945	PASS 	 1.909    	OHM	GND
+:      	CC 	37314 	     	      	         	   	U-761-P5-5
+:      	   	      	00945	PASS 	 1.713    	OHM	GND
+:      	CC 	37343 	     	      	         	   	U-761-P4-P
+:      	   	      	00945	PASS 	 1.703    	OHM	GND
+:      	CC 	37221 	     	      	         	   	U-761-P3-Y
+:      	   	      	00945	PASS 	 1.735    	OHM	GND
+:      	CC 	06823 	     	      	         	   	U-785-P1-A-105
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	06832 	     	      	         	   	U-785-P1-B-105
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	37249 	     	      	         	   	U-761-P2-W
+:      	   	      	00945	PASS 	 1.667    	OHM	GND
+:      	CC 	67931 	     	      	         	   	U-78A-P1-2
+:      	   	      	00945	PASS 	 1.998    	OHM	GND
+:      	CC 	68301 	     	      	         	   	U-78C-P1-2
+:      	   	      	00945	PASS 	 1.967    	OHM	GND
+:      	CC 	70441 	     	      	         	   	U-78B-P1-2
+:      	   	      	00945	PASS 	 1.942    	OHM	GND
+:      	CC 	70511 	     	      	         	   	U-78D-P1-2
+:      	   	      	00945	PASS 	 1.972    	OHM	GND
+:      	CC 	06835 	     	      	         	   	U-785-P1-B-108
+:      	   	      	00945	HIGH 	>30.00M   	OHM	GND
+:      	CC 	06826 	     	      	         	   	U-785-P1-A-108
+:      	   	      	00945	PASS 	 2.845    	OHM	GND
+:      	CC 	36718 	     	      	         	   	P-3319-P1-9
+:      	   	      	00945	PASS 	 1.670    	OHM	GND
+:      	CC 	36719 	     	      	         	   	P-3319-P1-10
+:      	   	      	00945	PASS 	 1.640    	OHM	GND
+:      	CC 	36721 	     	      	         	   	P-3319-P1-12
+:      	   	      	00945	PASS 	 1.771    	OHM	GND
+:      	CC 	36734 	     	      	         	   	P-3319-P1-25
+:      	   	      	00945	PASS 	 1.742    	OHM	GND
+:      	CC 	36735 	     	      	         	   	P-3319-P1-26
+:      	   	      	00945	PASS 	 1.770    	OHM	GND
+:      	CC 	36737 	     	      	         	   	P-3319-P1-28
+:      	   	      	00945	PASS 	 1.741    	OHM	GND
+TIME
+ 
+17 JUL 17  10:54:40
+esr
+String errors:    000210
+Bulk errors:      000000
+Two point errors: 000210
+Total Test Count: 001172
+esd dsk
+测试中止
+ 
+17 JUL 17  10:54:56
+分析仪停止
+-----------------------------------
+****中止正在进行处理****
+-----------------------------------
+ESR
+String errors:    000000
+Bulk errors:      000000
+Two point errors: 000000
+Total Test Count: 000000
+DRP ALL,ALL
+ESD DSK
